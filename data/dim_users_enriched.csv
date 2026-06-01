@@ -1,0 +1,2201 @@
+user_id,signup_date,segment,city_tier,preferred_device,lifetime_sessions,lifetime_orders,first_order_date,last_order_date,repeat_rate_flag,user_value_band
+u000001,2025-07-16,premium,1,mobile,3,0,,,0,no_spend
+u000002,2025-12-29,regular,3,mobile,5,1,2025-11-14 09:34:01,2025-11-14 09:34:01,0,high
+u000003,2025-11-26,value,3,mobile,2,0,,,0,no_spend
+u000004,2025-09-01,value,2,mobile,5,1,2025-11-06 14:06:09,2025-11-06 14:06:09,0,medium
+u000005,2025-10-06,regular,1,web,2,0,,,0,no_spend
+u000006,2025-11-09,value,1,web,3,0,,,0,no_spend
+u000007,2025-06-28,value,2,web,2,0,,,0,no_spend
+u000008,2025-10-06,premium,2,mobile,3,0,,,0,no_spend
+u000009,2025-11-24,value,2,mobile,3,0,,,0,no_spend
+u000010,2025-08-01,premium,1,mobile,5,0,,,0,no_spend
+u000011,2025-09-24,regular,2,web,4,0,,,0,no_spend
+u000012,2025-10-13,regular,3,web,5,0,,,0,no_spend
+u000013,2025-11-24,regular,2,mobile,3,1,2025-12-04 17:09:01,2025-12-04 17:09:01,0,medium
+u000014,2026-01-11,value,2,mobile,3,0,,,0,no_spend
+u000015,2025-12-18,regular,1,web,5,0,,,0,no_spend
+u000016,2025-10-31,value,2,web,1,0,,,0,no_spend
+u000017,2025-10-24,premium,2,web,4,2,2025-11-09 03:06:16,2026-01-15 05:17:35,1,high
+u000018,2025-10-28,value,3,web,2,0,,,0,no_spend
+u000019,2025-10-15,value,3,web,5,1,2025-12-21 04:16:33,2025-12-21 04:16:33,0,medium
+u000020,2025-07-05,regular,3,web,0,0,,,0,no_spend
+u000021,2025-11-17,regular,3,mobile,4,0,,,0,no_spend
+u000022,2025-11-20,regular,3,web,2,0,,,0,no_spend
+u000023,2025-10-09,regular,3,web,4,0,,,0,no_spend
+u000024,2025-12-23,value,1,web,3,0,,,0,no_spend
+u000025,2025-11-11,regular,1,mobile,5,0,,,0,no_spend
+u000026,2025-09-07,value,2,web,2,0,,,0,no_spend
+u000027,2025-06-27,value,2,web,1,0,,,0,no_spend
+u000028,2025-07-05,value,1,web,4,0,,,0,no_spend
+u000029,2025-09-05,value,3,mobile,3,0,,,0,no_spend
+u000030,2025-09-28,value,2,mobile,2,0,,,0,no_spend
+u000031,2025-07-28,regular,2,web,3,0,,,0,no_spend
+u000032,2025-08-02,value,1,web,5,0,,,0,no_spend
+u000033,2025-08-10,value,2,web,7,0,,,0,no_spend
+u000034,2025-12-04,regular,1,mobile,6,0,,,0,no_spend
+u000035,2025-12-02,value,3,mobile,3,0,,,0,no_spend
+u000036,2025-09-11,regular,2,web,2,0,,,0,no_spend
+u000037,2025-07-29,premium,3,web,4,1,2025-11-29 23:36:12,2025-11-29 23:36:12,0,medium
+u000038,2025-07-16,regular,2,mobile,2,0,,,0,no_spend
+u000039,2025-07-11,premium,2,mobile,3,0,,,0,no_spend
+u000040,2025-09-13,value,2,web,3,1,2026-01-18 07:26:40,2026-01-18 07:26:40,0,medium
+u000041,2025-07-03,value,3,web,6,1,2025-11-06 12:43:35,2025-11-06 12:43:35,0,medium
+u000042,2025-09-01,regular,3,web,5,1,2026-01-11 04:13:19,2026-01-11 04:13:19,0,low
+u000043,2026-01-11,regular,1,mobile,3,0,,,0,no_spend
+u000044,2025-10-08,regular,3,mobile,1,0,,,0,no_spend
+u000045,2025-12-13,value,1,mobile,2,0,,,0,no_spend
+u000046,2025-07-20,regular,3,mobile,2,0,,,0,no_spend
+u000047,2025-08-18,regular,1,web,4,1,2026-01-17 14:03:09,2026-01-17 14:03:09,0,medium
+u000048,2026-01-08,value,2,web,5,0,,,0,no_spend
+u000049,2025-09-11,value,3,web,5,0,,,0,no_spend
+u000050,2025-11-06,premium,1,mobile,3,0,,,0,no_spend
+u000051,2026-01-14,value,2,mobile,4,0,,,0,no_spend
+u000052,2025-10-17,regular,2,web,3,0,,,0,no_spend
+u000053,2025-08-26,regular,1,web,5,1,2025-11-26 05:37:14,2025-11-26 05:37:14,0,low
+u000054,2025-10-13,regular,3,mobile,3,0,,,0,no_spend
+u000055,2025-07-04,regular,3,mobile,1,0,,,0,no_spend
+u000056,2025-07-17,premium,3,mobile,2,0,,,0,no_spend
+u000057,2025-06-24,value,2,web,4,1,2025-12-21 11:28:23,2025-12-21 11:28:23,0,low
+u000058,2025-12-26,value,2,mobile,4,1,2025-11-30 03:40:46,2025-11-30 03:40:46,0,high
+u000059,2025-11-11,regular,1,mobile,2,0,,,0,no_spend
+u000060,2025-08-25,regular,1,mobile,5,0,,,0,no_spend
+u000061,2025-08-08,value,1,mobile,2,0,,,0,no_spend
+u000062,2025-11-13,value,3,mobile,3,0,,,0,no_spend
+u000063,2026-01-02,value,3,mobile,5,0,,,0,no_spend
+u000064,2025-08-25,value,3,mobile,4,0,,,0,no_spend
+u000065,2025-08-29,value,2,web,5,1,2025-12-01 23:31:23,2025-12-01 23:31:23,0,low
+u000066,2025-12-19,premium,2,web,5,1,2025-12-14 09:32:12,2025-12-14 09:32:12,0,high
+u000067,2025-12-28,value,2,mobile,3,1,2025-10-28 09:25:31,2025-10-28 09:25:31,0,high
+u000068,2026-01-01,premium,2,mobile,0,0,,,0,no_spend
+u000069,2025-08-24,premium,2,web,4,0,,,0,no_spend
+u000070,2025-07-18,value,1,web,7,1,2026-01-04 00:18:42,2026-01-04 00:18:42,0,medium
+u000071,2025-09-23,regular,1,mobile,3,0,,,0,no_spend
+u000072,2025-08-24,regular,3,mobile,2,0,,,0,no_spend
+u000073,2025-12-26,regular,2,mobile,2,0,,,0,no_spend
+u000074,2025-07-01,value,3,web,2,0,,,0,no_spend
+u000075,2025-11-03,value,1,mobile,3,0,,,0,no_spend
+u000076,2025-12-30,value,2,mobile,4,0,,,0,no_spend
+u000077,2026-01-14,regular,1,web,6,0,,,0,no_spend
+u000078,2025-11-06,premium,2,web,2,0,,,0,no_spend
+u000079,2026-01-08,regular,1,mobile,4,0,,,0,no_spend
+u000080,2025-07-09,regular,1,web,8,0,,,0,no_spend
+u000081,2025-09-06,premium,3,mobile,5,0,,,0,no_spend
+u000082,2025-06-25,regular,2,mobile,6,1,2026-01-12 11:52:48,2026-01-12 11:52:48,0,medium
+u000083,2026-01-15,value,2,mobile,4,0,,,0,no_spend
+u000084,2025-12-30,premium,2,web,2,0,,,0,no_spend
+u000085,2025-06-29,regular,2,mobile,1,0,,,0,no_spend
+u000086,2025-06-27,value,2,web,5,0,,,0,no_spend
+u000087,2025-09-08,regular,1,mobile,1,0,,,0,no_spend
+u000088,2025-08-16,premium,3,web,8,0,,,0,no_spend
+u000089,2025-12-18,value,3,mobile,5,0,,,0,no_spend
+u000090,2025-07-27,regular,3,mobile,4,0,,,0,no_spend
+u000091,2025-12-06,value,2,web,3,0,,,0,no_spend
+u000092,2025-10-17,value,1,web,2,0,,,0,no_spend
+u000093,2025-09-10,value,3,mobile,6,1,2026-01-16 07:19:58,2026-01-16 07:19:58,0,high
+u000094,2025-07-24,regular,2,web,4,0,,,0,no_spend
+u000095,2026-01-18,premium,1,web,2,0,,,0,no_spend
+u000096,2025-10-31,value,2,web,1,0,,,0,no_spend
+u000097,2025-09-23,value,3,mobile,2,0,,,0,no_spend
+u000098,2025-09-09,value,2,mobile,2,0,,,0,no_spend
+u000099,2025-12-30,value,3,web,2,0,,,0,no_spend
+u000100,2025-12-12,regular,3,mobile,0,0,,,0,no_spend
+u000101,2025-12-10,regular,1,web,3,1,2025-12-04 14:05:19,2025-12-04 14:05:19,0,medium
+u000102,2025-10-30,regular,3,web,1,0,,,0,no_spend
+u000103,2025-12-26,regular,2,web,0,0,,,0,no_spend
+u000104,2025-08-25,regular,2,web,4,0,,,0,no_spend
+u000105,2025-11-18,value,1,web,3,0,,,0,no_spend
+u000106,2025-09-16,value,3,mobile,1,0,,,0,no_spend
+u000107,2025-10-27,premium,2,web,4,0,,,0,no_spend
+u000108,2026-01-19,regular,1,mobile,3,0,,,0,no_spend
+u000109,2026-01-16,premium,2,web,3,0,,,0,no_spend
+u000110,2025-10-09,premium,1,web,3,1,2025-12-16 01:26:55,2025-12-16 01:26:55,0,medium
+u000111,2025-10-21,regular,1,web,3,0,,,0,no_spend
+u000112,2025-12-28,premium,2,mobile,4,0,,,0,no_spend
+u000113,2026-01-16,regular,2,mobile,2,1,2025-11-05 23:33:47,2025-11-05 23:33:47,0,low
+u000114,2025-12-03,value,3,web,5,1,2025-10-28 14:19:24,2025-10-28 14:19:24,0,medium
+u000115,2025-07-07,value,2,web,3,0,,,0,no_spend
+u000116,2025-08-30,value,3,web,3,0,,,0,no_spend
+u000117,2025-12-28,value,2,mobile,3,0,,,0,no_spend
+u000118,2025-12-01,regular,2,web,5,0,,,0,no_spend
+u000119,2025-11-26,regular,2,mobile,4,0,,,0,no_spend
+u000120,2025-11-10,regular,2,web,5,0,,,0,no_spend
+u000121,2025-09-18,regular,3,web,1,0,,,0,no_spend
+u000122,2025-09-16,value,2,mobile,3,0,,,0,no_spend
+u000123,2025-12-10,regular,1,web,4,1,2026-01-14 22:52:55,2026-01-14 22:52:55,0,high
+u000124,2025-08-24,regular,2,web,3,0,,,0,no_spend
+u000125,2025-11-14,value,3,mobile,6,0,,,0,no_spend
+u000126,2025-11-22,value,1,web,1,0,,,0,no_spend
+u000127,2025-12-17,value,2,web,2,0,,,0,no_spend
+u000128,2025-08-29,value,3,web,2,0,,,0,no_spend
+u000129,2025-11-26,regular,3,web,2,0,,,0,no_spend
+u000130,2025-07-15,regular,3,mobile,3,0,,,0,no_spend
+u000131,2025-07-22,regular,2,web,5,0,,,0,no_spend
+u000132,2025-09-19,value,2,mobile,6,0,,,0,no_spend
+u000133,2025-07-05,regular,2,mobile,3,0,,,0,no_spend
+u000134,2026-01-08,regular,3,mobile,7,0,,,0,no_spend
+u000135,2025-12-29,value,2,mobile,1,0,,,0,no_spend
+u000136,2025-07-03,regular,3,mobile,0,0,,,0,no_spend
+u000137,2025-12-16,regular,2,mobile,3,0,,,0,no_spend
+u000138,2025-10-08,regular,2,web,2,0,,,0,no_spend
+u000139,2025-11-17,value,3,web,1,0,,,0,no_spend
+u000140,2025-12-26,regular,2,mobile,2,0,,,0,no_spend
+u000141,2025-10-22,value,3,web,4,0,,,0,no_spend
+u000142,2025-07-17,value,2,mobile,4,2,2025-12-16 23:21:24,2025-12-21 23:39:21,1,high
+u000143,2025-06-23,value,2,web,4,0,,,0,no_spend
+u000144,2025-10-05,premium,2,mobile,4,0,,,0,no_spend
+u000145,2026-01-08,value,2,web,2,0,,,0,no_spend
+u000146,2025-10-21,regular,2,mobile,3,1,2025-12-03 17:49:48,2025-12-03 17:49:48,0,medium
+u000147,2025-09-09,value,1,web,5,0,,,0,no_spend
+u000148,2025-06-29,premium,1,web,3,1,2025-11-23 00:50:48,2025-11-23 00:50:48,0,low
+u000149,2026-01-01,regular,2,mobile,2,0,,,0,no_spend
+u000150,2025-08-31,premium,2,mobile,3,0,,,0,no_spend
+u000151,2025-11-18,value,2,mobile,2,0,,,0,no_spend
+u000152,2025-11-16,value,1,mobile,5,0,,,0,no_spend
+u000153,2025-08-15,regular,2,web,2,0,,,0,no_spend
+u000154,2025-07-06,value,1,mobile,1,0,,,0,no_spend
+u000155,2025-09-12,regular,3,web,0,0,,,0,no_spend
+u000156,2025-08-29,premium,3,web,3,0,,,0,no_spend
+u000157,2025-11-17,regular,1,web,5,1,2026-01-04 15:20:57,2026-01-04 15:20:57,0,medium
+u000158,2025-12-12,premium,2,web,2,0,,,0,no_spend
+u000159,2025-08-09,regular,1,mobile,0,0,,,0,no_spend
+u000160,2025-10-12,value,2,mobile,5,0,,,0,no_spend
+u000161,2025-07-01,regular,1,web,3,0,,,0,no_spend
+u000162,2025-08-07,value,2,mobile,2,0,,,0,no_spend
+u000163,2025-11-30,regular,2,web,4,1,2025-12-15 20:22:28,2025-12-15 20:22:28,0,medium
+u000164,2025-12-07,value,3,web,4,0,,,0,no_spend
+u000165,2025-12-03,value,1,mobile,5,1,2025-10-29 01:48:15,2025-10-29 01:48:15,0,medium
+u000166,2025-07-23,regular,2,web,0,0,,,0,no_spend
+u000167,2025-10-17,value,3,web,4,0,,,0,no_spend
+u000168,2025-09-20,value,3,mobile,2,2,2025-10-23 11:12:57,2025-12-11 10:37:48,1,medium
+u000169,2026-01-17,regular,2,web,6,2,2025-12-01 04:26:15,2025-12-02 02:56:55,1,high
+u000170,2025-11-07,value,2,web,1,0,,,0,no_spend
+u000171,2026-01-05,regular,2,mobile,7,0,,,0,no_spend
+u000172,2025-07-23,value,2,web,6,0,,,0,no_spend
+u000173,2025-09-26,value,3,mobile,4,0,,,0,no_spend
+u000174,2025-12-02,value,2,mobile,1,0,,,0,no_spend
+u000175,2025-09-08,regular,2,web,4,0,,,0,no_spend
+u000176,2025-11-03,premium,1,web,2,0,,,0,no_spend
+u000177,2025-10-08,value,2,web,3,0,,,0,no_spend
+u000178,2026-01-17,premium,3,mobile,8,1,2025-11-25 09:53:13,2025-11-25 09:53:13,0,low
+u000179,2025-07-29,regular,2,web,6,1,2025-12-09 13:24:47,2025-12-09 13:24:47,0,low
+u000180,2026-01-05,regular,2,mobile,5,0,,,0,no_spend
+u000181,2025-09-15,regular,3,web,3,0,,,0,no_spend
+u000182,2025-09-29,regular,3,mobile,3,0,,,0,no_spend
+u000183,2025-10-12,regular,2,web,8,0,,,0,no_spend
+u000184,2025-08-18,regular,2,web,2,0,,,0,no_spend
+u000185,2026-01-11,regular,2,web,1,0,,,0,no_spend
+u000186,2025-12-31,value,2,mobile,1,0,,,0,no_spend
+u000187,2026-01-13,value,2,mobile,3,1,2025-12-01 14:29:39,2025-12-01 14:29:39,0,high
+u000188,2026-01-18,regular,1,web,2,0,,,0,no_spend
+u000189,2025-11-11,value,3,web,5,0,,,0,no_spend
+u000190,2025-09-26,value,3,web,5,0,,,0,no_spend
+u000191,2025-12-19,value,3,web,4,0,,,0,no_spend
+u000192,2025-06-28,value,3,mobile,1,0,,,0,no_spend
+u000193,2025-12-15,regular,3,mobile,3,0,,,0,no_spend
+u000194,2025-10-05,regular,3,mobile,4,1,2026-01-15 22:53:20,2026-01-15 22:53:20,0,low
+u000195,2025-11-11,regular,3,web,4,0,,,0,no_spend
+u000196,2025-09-09,value,2,web,3,1,2025-12-31 20:51:04,2025-12-31 20:51:04,0,low
+u000197,2025-09-08,regular,2,mobile,5,0,,,0,no_spend
+u000198,2025-06-30,regular,1,web,6,2,2025-12-12 01:00:34,2026-01-15 15:01:09,1,high
+u000199,2025-09-20,regular,2,mobile,3,0,,,0,no_spend
+u000200,2025-09-17,regular,2,web,2,0,,,0,no_spend
+u000201,2025-08-09,regular,2,web,2,0,,,0,no_spend
+u000202,2025-08-14,regular,2,mobile,2,0,,,0,no_spend
+u000203,2025-10-24,premium,2,web,0,0,,,0,no_spend
+u000204,2025-08-29,regular,1,mobile,2,1,2025-11-23 19:31:22,2025-11-23 19:31:22,0,high
+u000205,2025-12-14,regular,3,web,4,1,2025-11-23 19:54:59,2025-11-23 19:54:59,0,low
+u000206,2025-07-16,regular,3,web,3,1,2025-12-04 05:09:20,2025-12-04 05:09:20,0,high
+u000207,2025-10-22,value,1,web,2,1,2025-12-27 04:54:16,2025-12-27 04:54:16,0,high
+u000208,2025-07-27,premium,1,web,2,0,,,0,no_spend
+u000209,2025-10-12,value,2,web,4,0,,,0,no_spend
+u000210,2025-10-17,value,3,web,2,0,,,0,no_spend
+u000211,2025-11-05,premium,3,mobile,2,1,2025-12-01 03:11:40,2025-12-01 03:11:40,0,high
+u000212,2025-09-21,regular,1,mobile,0,0,,,0,no_spend
+u000213,2025-10-08,value,3,web,4,0,,,0,no_spend
+u000214,2025-07-31,value,1,web,2,0,,,0,no_spend
+u000215,2025-09-28,value,2,web,3,2,2025-11-01 19:18:39,2025-11-26 11:18:12,1,high
+u000216,2025-09-09,regular,3,mobile,5,0,,,0,no_spend
+u000217,2025-11-10,value,1,mobile,4,1,2025-11-20 09:10:14,2025-11-20 09:10:14,0,low
+u000218,2025-09-22,premium,1,web,6,0,,,0,no_spend
+u000219,2025-12-04,premium,2,web,2,0,,,0,no_spend
+u000220,2025-09-20,regular,2,web,2,0,,,0,no_spend
+u000221,2025-08-11,regular,3,web,3,0,,,0,no_spend
+u000222,2025-08-19,value,3,web,1,0,,,0,no_spend
+u000223,2025-07-02,value,1,mobile,1,0,,,0,no_spend
+u000224,2025-10-14,regular,1,web,2,1,2026-01-09 19:06:07,2026-01-09 19:06:07,0,high
+u000225,2025-12-14,value,3,web,4,0,,,0,no_spend
+u000226,2025-12-01,value,2,web,5,0,,,0,no_spend
+u000227,2025-09-23,value,3,mobile,5,2,2025-11-13 13:26:46,2025-12-17 11:34:39,1,high
+u000228,2025-08-03,value,2,web,1,0,,,0,no_spend
+u000229,2025-12-21,regular,1,web,5,0,,,0,no_spend
+u000230,2025-07-05,regular,3,web,4,0,,,0,no_spend
+u000231,2025-09-15,regular,1,mobile,4,0,,,0,no_spend
+u000232,2025-12-20,regular,2,web,6,0,,,0,no_spend
+u000233,2025-09-14,regular,2,mobile,1,0,,,0,no_spend
+u000234,2025-07-18,regular,2,web,2,0,,,0,no_spend
+u000235,2025-08-18,regular,2,web,4,1,2025-11-23 05:42:22,2025-11-23 05:42:22,0,high
+u000236,2025-10-27,regular,2,mobile,5,0,,,0,no_spend
+u000237,2025-07-25,value,3,mobile,2,0,,,0,no_spend
+u000238,2025-11-07,premium,3,web,3,0,,,0,no_spend
+u000239,2025-09-23,value,2,mobile,4,0,,,0,no_spend
+u000240,2025-09-01,value,1,web,9,0,,,0,no_spend
+u000241,2025-08-13,value,3,web,5,2,2025-11-04 14:19:10,2025-11-24 19:13:57,1,high
+u000242,2025-12-13,regular,3,mobile,3,0,,,0,no_spend
+u000243,2025-09-14,regular,2,mobile,4,0,,,0,no_spend
+u000244,2025-11-25,regular,2,web,2,0,,,0,no_spend
+u000245,2025-09-23,premium,2,mobile,3,0,,,0,no_spend
+u000246,2025-07-12,value,1,web,5,1,2026-01-11 08:39:04,2026-01-11 08:39:04,0,low
+u000247,2025-09-23,regular,2,web,2,0,,,0,no_spend
+u000248,2025-10-08,value,2,mobile,3,0,,,0,no_spend
+u000249,2025-09-27,regular,3,web,6,2,2025-11-03 09:30:12,2026-01-07 02:31:55,1,medium
+u000250,2025-12-11,value,3,mobile,3,1,2026-01-02 20:11:38,2026-01-02 20:11:38,0,low
+u000251,2025-12-31,value,3,mobile,3,0,,,0,no_spend
+u000252,2025-12-05,regular,2,mobile,4,1,2025-10-22 10:11:15,2025-10-22 10:11:15,0,low
+u000253,2025-10-23,regular,2,web,4,0,,,0,no_spend
+u000254,2025-10-15,regular,3,mobile,2,0,,,0,no_spend
+u000255,2025-11-05,regular,3,mobile,4,1,2025-11-09 04:17:13,2025-11-09 04:17:13,0,low
+u000256,2025-08-22,regular,2,mobile,4,2,2025-10-21 14:41:34,2025-12-25 06:15:33,1,medium
+u000257,2025-12-10,regular,3,web,6,1,2026-01-16 21:38:10,2026-01-16 21:38:10,0,low
+u000258,2025-12-20,value,1,web,3,1,2026-01-12 11:55:50,2026-01-12 11:55:50,0,medium
+u000259,2025-08-18,value,3,web,2,0,,,0,no_spend
+u000260,2025-12-30,value,1,web,6,0,,,0,no_spend
+u000261,2025-12-18,value,1,web,3,0,,,0,no_spend
+u000262,2025-09-20,regular,2,mobile,7,0,,,0,no_spend
+u000263,2025-12-31,regular,1,mobile,0,0,,,0,no_spend
+u000264,2025-07-18,regular,1,web,2,0,,,0,no_spend
+u000265,2025-06-29,regular,1,web,3,0,,,0,no_spend
+u000266,2025-09-04,regular,2,mobile,2,0,,,0,no_spend
+u000267,2025-10-20,regular,3,web,4,0,,,0,no_spend
+u000268,2025-09-05,value,1,mobile,4,1,2025-10-26 05:46:16,2025-10-26 05:46:16,0,high
+u000269,2026-01-07,value,2,web,3,1,2025-11-17 12:31:43,2025-11-17 12:31:43,0,high
+u000270,2025-08-15,regular,3,web,0,0,,,0,no_spend
+u000271,2025-08-21,regular,1,web,1,0,,,0,no_spend
+u000272,2025-11-03,value,1,mobile,3,0,,,0,no_spend
+u000273,2025-06-24,value,3,web,2,0,,,0,no_spend
+u000274,2025-11-23,regular,3,mobile,8,0,,,0,no_spend
+u000275,2025-09-10,regular,2,web,3,0,,,0,no_spend
+u000276,2026-01-14,value,3,web,3,0,,,0,no_spend
+u000277,2025-11-15,regular,1,mobile,2,0,,,0,no_spend
+u000278,2025-07-04,premium,2,web,3,0,,,0,no_spend
+u000279,2025-07-12,value,3,web,6,1,2025-10-28 03:54:51,2025-10-28 03:54:51,0,high
+u000280,2025-07-11,premium,2,web,6,1,2025-12-03 01:53:51,2025-12-03 01:53:51,0,low
+u000281,2026-01-09,value,3,mobile,6,1,2025-11-10 21:19:03,2025-11-10 21:19:03,0,high
+u000282,2025-11-14,regular,2,web,3,0,,,0,no_spend
+u000283,2025-09-21,regular,3,web,3,0,,,0,no_spend
+u000284,2025-08-04,value,2,mobile,2,0,,,0,no_spend
+u000285,2025-12-23,premium,2,mobile,1,0,,,0,no_spend
+u000286,2025-08-04,regular,1,mobile,2,0,,,0,no_spend
+u000287,2025-11-18,premium,1,mobile,2,0,,,0,no_spend
+u000288,2025-11-30,value,3,mobile,3,0,,,0,no_spend
+u000289,2025-08-24,premium,1,web,6,1,2026-01-07 03:30:21,2026-01-07 03:30:21,0,high
+u000290,2025-10-07,premium,1,web,2,0,,,0,no_spend
+u000291,2025-08-09,regular,1,mobile,4,0,,,0,no_spend
+u000292,2025-09-11,value,1,mobile,7,1,2026-01-04 22:08:23,2026-01-04 22:08:23,0,high
+u000293,2026-01-12,regular,3,mobile,1,0,,,0,no_spend
+u000294,2025-11-15,regular,2,mobile,2,0,,,0,no_spend
+u000295,2025-12-18,premium,3,web,2,0,,,0,no_spend
+u000296,2025-10-14,regular,1,web,2,0,,,0,no_spend
+u000297,2025-08-12,value,2,mobile,5,0,,,0,no_spend
+u000298,2025-11-20,value,2,web,5,0,,,0,no_spend
+u000299,2025-10-06,regular,2,mobile,2,0,,,0,no_spend
+u000300,2025-07-30,premium,3,mobile,2,0,,,0,no_spend
+u000301,2025-09-18,value,3,web,5,1,2025-12-07 08:05:12,2025-12-07 08:05:12,0,high
+u000302,2025-11-03,regular,3,mobile,5,0,,,0,no_spend
+u000303,2025-11-24,premium,1,mobile,3,0,,,0,no_spend
+u000304,2025-08-13,value,1,mobile,2,0,,,0,no_spend
+u000305,2025-12-24,value,2,web,4,0,,,0,no_spend
+u000306,2025-09-11,regular,2,mobile,2,0,,,0,no_spend
+u000307,2025-08-19,regular,3,web,3,0,,,0,no_spend
+u000308,2025-08-03,value,2,web,7,1,2026-01-07 02:13:21,2026-01-07 02:13:21,0,medium
+u000309,2025-12-09,regular,2,web,4,1,2025-12-24 08:10:01,2025-12-24 08:10:01,0,high
+u000310,2025-09-05,regular,3,mobile,2,0,,,0,no_spend
+u000311,2025-10-02,premium,3,mobile,5,1,2025-11-19 05:11:16,2025-11-19 05:11:16,0,low
+u000312,2025-08-09,premium,1,web,4,0,,,0,no_spend
+u000313,2025-11-14,regular,1,mobile,3,1,2025-12-25 10:38:54,2025-12-25 10:38:54,0,medium
+u000314,2025-12-04,regular,2,web,2,0,,,0,no_spend
+u000315,2025-09-02,value,2,mobile,2,0,,,0,no_spend
+u000316,2026-01-07,regular,2,web,3,0,,,0,no_spend
+u000317,2025-06-29,value,2,mobile,1,0,,,0,no_spend
+u000318,2025-07-21,regular,3,web,4,0,,,0,no_spend
+u000319,2025-10-25,value,3,mobile,3,0,,,0,no_spend
+u000320,2025-11-17,regular,2,web,4,0,,,0,no_spend
+u000321,2025-08-15,value,2,mobile,5,0,,,0,no_spend
+u000322,2025-10-17,value,2,mobile,5,0,,,0,no_spend
+u000323,2025-08-29,value,2,web,1,0,,,0,no_spend
+u000324,2025-10-17,regular,2,web,1,0,,,0,no_spend
+u000325,2025-11-08,regular,2,mobile,4,0,,,0,no_spend
+u000326,2026-01-13,value,2,mobile,4,1,2025-12-25 04:16:08,2025-12-25 04:16:08,0,high
+u000327,2025-09-27,premium,1,web,0,0,,,0,no_spend
+u000328,2025-11-06,premium,1,web,2,0,,,0,no_spend
+u000329,2025-10-22,value,1,web,2,0,,,0,no_spend
+u000330,2025-08-29,regular,3,mobile,3,0,,,0,no_spend
+u000331,2025-08-15,regular,2,mobile,2,0,,,0,no_spend
+u000332,2026-01-16,value,1,web,1,0,,,0,no_spend
+u000333,2025-08-05,regular,3,mobile,2,0,,,0,no_spend
+u000334,2025-12-06,value,2,mobile,4,0,,,0,no_spend
+u000335,2025-07-24,premium,2,mobile,4,0,,,0,no_spend
+u000336,2025-12-09,premium,3,web,3,2,2025-10-27 07:54:50,2025-12-05 01:04:40,1,high
+u000337,2025-08-01,regular,1,web,3,0,,,0,no_spend
+u000338,2026-01-12,regular,1,web,5,2,2026-01-11 02:24:45,2026-01-14 15:59:58,1,high
+u000339,2025-11-14,regular,2,web,3,0,,,0,no_spend
+u000340,2025-07-12,premium,1,web,3,0,,,0,no_spend
+u000341,2025-11-16,value,2,web,5,0,,,0,no_spend
+u000342,2025-10-28,value,1,web,1,0,,,0,no_spend
+u000343,2025-09-02,regular,1,mobile,6,0,,,0,no_spend
+u000344,2025-08-17,value,1,web,1,0,,,0,no_spend
+u000345,2025-11-21,value,2,mobile,6,0,,,0,no_spend
+u000346,2025-11-26,value,1,web,3,0,,,0,no_spend
+u000347,2025-08-31,regular,1,mobile,7,2,2025-11-09 03:24:22,2025-12-22 18:25:53,1,high
+u000348,2025-12-24,value,3,web,4,0,,,0,no_spend
+u000349,2025-08-18,value,2,mobile,3,0,,,0,no_spend
+u000350,2025-07-08,value,2,mobile,7,0,,,0,no_spend
+u000351,2025-10-27,regular,1,web,4,0,,,0,no_spend
+u000352,2025-07-15,premium,2,mobile,7,0,,,0,no_spend
+u000353,2025-08-20,value,2,web,7,0,,,0,no_spend
+u000354,2025-10-07,regular,2,mobile,4,1,2025-12-09 02:18:59,2025-12-09 02:18:59,0,low
+u000355,2025-08-22,regular,1,web,5,1,2026-01-07 06:14:07,2026-01-07 06:14:07,0,low
+u000356,2025-08-07,value,3,web,3,0,,,0,no_spend
+u000357,2025-11-18,regular,3,web,7,0,,,0,no_spend
+u000358,2025-10-16,regular,1,mobile,4,0,,,0,no_spend
+u000359,2025-12-16,regular,1,web,7,1,2026-01-02 22:37:05,2026-01-02 22:37:05,0,medium
+u000360,2025-10-23,value,1,mobile,4,1,2025-11-03 11:31:11,2025-11-03 11:31:11,0,low
+u000361,2025-10-02,value,2,web,5,0,,,0,no_spend
+u000362,2025-08-17,premium,1,web,6,0,,,0,no_spend
+u000363,2025-12-06,regular,3,web,3,0,,,0,no_spend
+u000364,2025-08-03,premium,3,mobile,6,0,,,0,no_spend
+u000365,2025-08-13,premium,3,mobile,1,0,,,0,no_spend
+u000366,2025-12-17,value,2,web,4,0,,,0,no_spend
+u000367,2025-11-26,regular,3,mobile,6,2,2025-12-03 08:43:38,2025-12-09 03:07:09,1,high
+u000368,2025-10-30,regular,1,web,2,0,,,0,no_spend
+u000369,2025-07-01,regular,2,web,2,0,,,0,no_spend
+u000370,2025-07-20,value,2,web,5,0,,,0,no_spend
+u000371,2025-10-06,value,3,web,2,0,,,0,no_spend
+u000372,2025-11-27,regular,2,web,2,1,2025-11-09 01:18:34,2025-11-09 01:18:34,0,low
+u000373,2025-09-28,regular,3,mobile,1,0,,,0,no_spend
+u000374,2025-06-27,regular,1,web,2,0,,,0,no_spend
+u000375,2025-08-01,value,3,mobile,1,0,,,0,no_spend
+u000376,2025-10-25,value,2,mobile,3,0,,,0,no_spend
+u000377,2025-11-16,premium,2,mobile,4,0,,,0,no_spend
+u000378,2025-06-30,regular,3,mobile,8,1,2026-01-01 12:18:31,2026-01-01 12:18:31,0,medium
+u000379,2025-07-02,regular,2,mobile,3,0,,,0,no_spend
+u000380,2025-08-17,regular,2,web,0,0,,,0,no_spend
+u000381,2025-07-10,regular,2,web,4,0,,,0,no_spend
+u000382,2025-10-15,regular,1,web,8,2,2026-01-02 01:05:28,2026-01-03 14:18:21,1,medium
+u000383,2025-07-19,regular,2,mobile,3,0,,,0,no_spend
+u000384,2025-11-06,regular,1,web,3,0,,,0,no_spend
+u000385,2025-12-03,premium,1,mobile,3,0,,,0,no_spend
+u000386,2026-01-13,premium,3,mobile,6,0,,,0,no_spend
+u000387,2026-01-08,regular,2,web,5,1,2025-12-02 00:21:48,2025-12-02 00:21:48,0,low
+u000388,2025-08-19,regular,2,mobile,1,0,,,0,no_spend
+u000389,2025-06-29,regular,2,web,5,1,2026-01-04 01:46:05,2026-01-04 01:46:05,0,low
+u000390,2025-08-31,regular,2,web,3,0,,,0,no_spend
+u000391,2025-11-19,regular,2,mobile,4,1,2025-12-05 11:09:40,2025-12-05 11:09:40,0,high
+u000392,2025-07-05,regular,3,web,4,1,2025-10-25 15:12:32,2025-10-25 15:12:32,0,medium
+u000393,2025-09-06,regular,3,web,1,0,,,0,no_spend
+u000394,2025-08-25,regular,2,web,5,0,,,0,no_spend
+u000395,2025-08-08,regular,2,web,2,0,,,0,no_spend
+u000396,2025-11-18,value,2,mobile,1,0,,,0,no_spend
+u000397,2025-11-08,regular,2,mobile,6,0,,,0,no_spend
+u000398,2025-10-13,regular,2,web,3,0,,,0,no_spend
+u000399,2025-12-31,value,2,web,1,0,,,0,no_spend
+u000400,2025-07-15,premium,2,web,3,1,2025-11-23 08:48:00,2025-11-23 08:48:00,0,high
+u000401,2025-07-24,regular,2,mobile,0,0,,,0,no_spend
+u000402,2025-09-11,value,2,mobile,1,0,,,0,no_spend
+u000403,2025-11-08,regular,2,web,2,0,,,0,no_spend
+u000404,2025-10-24,regular,1,web,2,0,,,0,no_spend
+u000405,2025-07-08,regular,1,mobile,3,0,,,0,no_spend
+u000406,2026-01-10,regular,3,mobile,3,0,,,0,no_spend
+u000407,2025-08-26,premium,2,web,1,1,2025-12-07 09:44:15,2025-12-07 09:44:15,0,low
+u000408,2025-09-06,regular,1,mobile,4,0,,,0,no_spend
+u000409,2025-11-01,regular,2,web,3,0,,,0,no_spend
+u000410,2026-01-07,value,3,web,3,0,,,0,no_spend
+u000411,2025-11-09,regular,2,mobile,2,0,,,0,no_spend
+u000412,2026-01-09,regular,3,web,4,0,,,0,no_spend
+u000413,2025-08-01,regular,3,web,4,0,,,0,no_spend
+u000414,2025-10-31,regular,2,mobile,2,0,,,0,no_spend
+u000415,2025-12-14,regular,2,mobile,2,0,,,0,no_spend
+u000416,2025-10-08,regular,1,web,0,0,,,0,no_spend
+u000417,2025-09-07,value,3,mobile,7,2,2025-12-04 08:06:09,2026-01-18 23:48:08,1,high
+u000418,2026-01-16,premium,2,mobile,1,0,,,0,no_spend
+u000419,2025-07-23,regular,3,mobile,4,0,,,0,no_spend
+u000420,2025-09-17,premium,2,mobile,3,1,2025-11-13 15:04:21,2025-11-13 15:04:21,0,low
+u000421,2025-12-23,premium,1,mobile,3,0,,,0,no_spend
+u000422,2025-12-29,premium,1,web,1,0,,,0,no_spend
+u000423,2026-01-15,regular,2,web,0,0,,,0,no_spend
+u000424,2025-12-26,regular,2,mobile,4,0,,,0,no_spend
+u000425,2025-07-04,value,1,mobile,4,0,,,0,no_spend
+u000426,2026-01-04,regular,3,web,1,0,,,0,no_spend
+u000427,2025-09-21,regular,3,web,6,1,2026-01-18 01:31:12,2026-01-18 01:31:12,0,medium
+u000428,2025-11-07,regular,2,mobile,4,0,,,0,no_spend
+u000429,2025-09-14,premium,2,web,1,0,,,0,no_spend
+u000430,2025-12-11,value,1,web,4,0,,,0,no_spend
+u000431,2025-10-22,regular,3,mobile,2,1,2026-01-03 12:08:29,2026-01-03 12:08:29,0,low
+u000432,2025-12-18,regular,2,mobile,2,0,,,0,no_spend
+u000433,2025-08-03,regular,3,mobile,2,0,,,0,no_spend
+u000434,2025-08-01,value,2,mobile,6,0,,,0,no_spend
+u000435,2025-09-23,value,2,web,3,0,,,0,no_spend
+u000436,2025-06-24,regular,2,mobile,3,0,,,0,no_spend
+u000437,2025-11-15,regular,1,web,4,1,2025-10-30 06:59:19,2025-10-30 06:59:19,0,low
+u000438,2025-08-24,value,3,web,6,1,2025-11-06 09:48:24,2025-11-06 09:48:24,0,low
+u000439,2025-10-18,value,2,mobile,3,1,2025-11-12 21:34:32,2025-11-12 21:34:32,0,medium
+u000440,2025-07-08,regular,2,mobile,3,0,,,0,no_spend
+u000441,2025-07-29,value,3,mobile,1,0,,,0,no_spend
+u000442,2025-11-01,regular,3,web,2,0,,,0,no_spend
+u000443,2025-08-26,regular,3,mobile,2,0,,,0,no_spend
+u000444,2025-08-07,value,1,mobile,2,0,,,0,no_spend
+u000445,2025-08-10,regular,2,mobile,6,1,2025-11-26 00:44:01,2025-11-26 00:44:01,0,low
+u000446,2025-08-07,value,3,mobile,1,0,,,0,no_spend
+u000447,2025-11-01,value,2,web,1,1,2025-10-31 10:25:00,2025-10-31 10:25:00,0,medium
+u000448,2025-07-28,premium,1,mobile,7,1,2025-12-14 17:58:13,2025-12-14 17:58:13,0,low
+u000449,2025-09-07,regular,3,mobile,1,0,,,0,no_spend
+u000450,2025-11-14,premium,2,mobile,6,1,2025-11-09 18:11:00,2025-11-09 18:11:00,0,high
+u000451,2025-10-09,value,2,mobile,1,0,,,0,no_spend
+u000452,2025-10-26,value,3,mobile,2,0,,,0,no_spend
+u000453,2025-08-15,regular,2,web,5,0,,,0,no_spend
+u000454,2026-01-05,regular,2,web,2,1,2025-12-20 05:20:30,2025-12-20 05:20:30,0,low
+u000455,2025-09-18,premium,2,mobile,2,0,,,0,no_spend
+u000456,2025-08-22,value,2,mobile,3,0,,,0,no_spend
+u000457,2025-12-30,premium,1,mobile,4,0,,,0,no_spend
+u000458,2025-11-08,premium,3,web,1,0,,,0,no_spend
+u000459,2025-10-30,regular,3,web,4,0,,,0,no_spend
+u000460,2025-12-26,value,2,mobile,3,0,,,0,no_spend
+u000461,2025-07-05,regular,2,mobile,3,0,,,0,no_spend
+u000462,2025-12-16,value,3,web,5,0,,,0,no_spend
+u000463,2025-11-12,regular,1,mobile,3,0,,,0,no_spend
+u000464,2025-09-07,regular,2,web,3,0,,,0,no_spend
+u000465,2025-08-16,premium,2,web,3,0,,,0,no_spend
+u000466,2025-07-15,regular,2,web,2,0,,,0,no_spend
+u000467,2026-01-07,regular,1,web,3,0,,,0,no_spend
+u000468,2025-07-23,regular,2,web,5,0,,,0,no_spend
+u000469,2025-08-16,regular,2,mobile,1,0,,,0,no_spend
+u000470,2025-11-15,premium,2,mobile,4,1,2025-12-14 21:08:44,2025-12-14 21:08:44,0,low
+u000471,2025-11-19,value,1,mobile,2,0,,,0,no_spend
+u000472,2025-07-27,premium,2,web,2,0,,,0,no_spend
+u000473,2025-12-11,regular,2,web,3,0,,,0,no_spend
+u000474,2025-10-08,premium,1,web,4,0,,,0,no_spend
+u000475,2025-12-18,regular,1,mobile,3,0,,,0,no_spend
+u000476,2025-07-11,regular,1,web,5,2,2025-10-26 14:28:57,2025-11-20 23:41:53,1,high
+u000477,2025-07-02,value,2,mobile,1,0,,,0,no_spend
+u000478,2025-11-04,regular,1,mobile,3,1,2025-12-04 00:18:37,2025-12-04 00:18:37,0,medium
+u000479,2025-07-24,value,3,mobile,5,0,,,0,no_spend
+u000480,2025-10-11,value,2,web,1,1,2025-10-24 16:31:21,2025-10-24 16:31:21,0,medium
+u000481,2025-06-26,regular,3,web,5,2,2025-11-16 14:30:54,2026-01-05 22:31:20,1,high
+u000482,2025-12-04,value,3,web,3,0,,,0,no_spend
+u000483,2025-12-29,regular,1,web,3,0,,,0,no_spend
+u000484,2025-12-16,regular,2,mobile,3,0,,,0,no_spend
+u000485,2026-01-10,value,3,web,3,0,,,0,no_spend
+u000486,2025-12-30,regular,2,mobile,5,2,2025-11-18 20:49:30,2025-12-15 13:59:08,1,high
+u000487,2025-09-24,value,2,web,5,0,,,0,no_spend
+u000488,2025-09-15,regular,2,mobile,3,1,2025-10-31 04:40:06,2025-10-31 04:40:06,0,high
+u000489,2025-12-28,regular,1,mobile,6,0,,,0,no_spend
+u000490,2026-01-04,regular,2,web,3,0,,,0,no_spend
+u000491,2026-01-13,regular,3,mobile,2,0,,,0,no_spend
+u000492,2025-12-01,premium,3,web,3,0,,,0,no_spend
+u000493,2025-08-04,regular,1,mobile,2,0,,,0,no_spend
+u000494,2026-01-07,regular,3,mobile,6,2,2025-10-23 15:58:25,2026-01-17 09:39:46,1,high
+u000495,2026-01-08,regular,2,mobile,6,1,2025-12-21 21:54:50,2025-12-21 21:54:50,0,low
+u000496,2025-11-10,regular,3,mobile,1,0,,,0,no_spend
+u000497,2025-12-20,value,1,web,2,0,,,0,no_spend
+u000498,2025-10-19,regular,3,mobile,5,0,,,0,no_spend
+u000499,2026-01-07,value,3,mobile,3,0,,,0,no_spend
+u000500,2025-07-13,regular,1,web,3,0,,,0,no_spend
+u000501,2025-12-21,value,1,web,0,0,,,0,no_spend
+u000502,2025-07-05,value,3,mobile,3,0,,,0,no_spend
+u000503,2025-09-02,premium,1,mobile,2,1,2025-11-15 02:45:30,2025-11-15 02:45:30,0,low
+u000504,2025-07-21,premium,2,web,4,0,,,0,no_spend
+u000505,2025-10-02,premium,3,mobile,9,2,2025-11-26 05:37:11,2026-01-14 10:29:53,1,high
+u000506,2025-08-11,premium,2,mobile,2,0,,,0,no_spend
+u000507,2026-01-09,regular,2,web,4,0,,,0,no_spend
+u000508,2025-10-18,value,2,web,4,0,,,0,no_spend
+u000509,2025-12-28,value,1,mobile,6,2,2025-11-29 19:38:48,2025-12-19 17:10:32,1,high
+u000510,2025-08-20,regular,3,mobile,5,0,,,0,no_spend
+u000511,2025-06-28,value,2,mobile,1,0,,,0,no_spend
+u000512,2025-12-03,premium,1,web,4,1,2025-10-28 13:27:43,2025-10-28 13:27:43,0,high
+u000513,2025-11-17,value,2,mobile,3,0,,,0,no_spend
+u000514,2025-10-15,value,3,mobile,3,0,,,0,no_spend
+u000515,2025-12-11,value,1,mobile,3,0,,,0,no_spend
+u000516,2025-12-16,value,3,web,1,0,,,0,no_spend
+u000517,2025-10-24,value,3,mobile,0,0,,,0,no_spend
+u000518,2026-01-12,regular,3,web,4,0,,,0,no_spend
+u000519,2025-11-21,value,3,web,4,0,,,0,no_spend
+u000520,2025-11-12,regular,3,mobile,2,1,2026-01-05 17:46:30,2026-01-05 17:46:30,0,medium
+u000521,2025-09-07,premium,3,mobile,1,0,,,0,no_spend
+u000522,2025-06-23,regular,1,web,4,0,,,0,no_spend
+u000523,2025-08-13,regular,3,mobile,5,0,,,0,no_spend
+u000524,2025-11-30,regular,2,web,2,0,,,0,no_spend
+u000525,2025-11-19,value,2,web,3,1,2025-11-19 21:16:20,2025-11-19 21:16:20,0,high
+u000526,2025-08-31,value,3,web,7,0,,,0,no_spend
+u000527,2025-11-01,premium,3,web,3,0,,,0,no_spend
+u000528,2025-08-03,regular,3,mobile,4,0,,,0,no_spend
+u000529,2025-08-17,value,2,mobile,5,1,2025-12-06 13:45:27,2025-12-06 13:45:27,0,low
+u000530,2026-01-08,regular,2,mobile,3,0,,,0,no_spend
+u000531,2025-09-18,regular,2,web,6,1,2025-11-18 21:41:08,2025-11-18 21:41:08,0,low
+u000532,2025-08-13,regular,2,web,2,0,,,0,no_spend
+u000533,2025-10-03,regular,2,web,0,0,,,0,no_spend
+u000534,2025-09-12,premium,1,mobile,4,1,2025-12-28 23:43:37,2025-12-28 23:43:37,0,medium
+u000535,2025-11-23,regular,1,web,8,1,2025-12-26 13:43:48,2025-12-26 13:43:48,0,medium
+u000536,2026-01-11,regular,3,web,1,0,,,0,no_spend
+u000537,2025-10-25,value,2,mobile,2,0,,,0,no_spend
+u000538,2025-10-25,value,3,mobile,7,1,2025-11-06 14:00:22,2025-11-06 14:00:22,0,high
+u000539,2025-09-08,premium,2,web,4,0,,,0,no_spend
+u000540,2025-10-20,regular,1,web,3,0,,,0,no_spend
+u000541,2025-08-29,regular,1,mobile,2,0,,,0,no_spend
+u000542,2025-06-23,regular,1,web,7,0,,,0,no_spend
+u000543,2025-12-22,value,3,web,3,0,,,0,no_spend
+u000544,2025-09-21,regular,1,mobile,5,0,,,0,no_spend
+u000545,2025-10-04,value,2,web,2,0,,,0,no_spend
+u000546,2025-07-10,regular,3,web,2,0,,,0,no_spend
+u000547,2025-12-16,regular,3,web,2,0,,,0,no_spend
+u000548,2025-07-29,value,1,web,5,0,,,0,no_spend
+u000549,2025-09-17,value,1,web,3,0,,,0,no_spend
+u000550,2025-12-16,regular,1,web,2,0,,,0,no_spend
+u000551,2025-09-27,value,1,mobile,5,1,2025-11-12 02:05:56,2025-11-12 02:05:56,0,low
+u000552,2026-01-04,value,1,web,2,1,2025-12-06 03:15:08,2025-12-06 03:15:08,0,medium
+u000553,2025-08-06,regular,2,mobile,1,0,,,0,no_spend
+u000554,2025-11-20,regular,3,mobile,10,2,2025-10-24 12:16:17,2025-11-24 00:55:35,1,medium
+u000555,2026-01-14,regular,2,web,1,0,,,0,no_spend
+u000556,2025-10-16,value,2,web,1,0,,,0,no_spend
+u000557,2025-11-15,premium,1,mobile,2,0,,,0,no_spend
+u000558,2025-09-14,value,3,mobile,6,0,,,0,no_spend
+u000559,2025-11-28,value,2,mobile,3,0,,,0,no_spend
+u000560,2025-12-31,value,3,web,3,0,,,0,no_spend
+u000561,2025-11-18,value,3,web,4,0,,,0,no_spend
+u000562,2026-01-05,value,2,web,2,0,,,0,no_spend
+u000563,2025-10-25,value,1,mobile,3,0,,,0,no_spend
+u000564,2025-10-22,value,1,mobile,6,1,2025-10-28 12:19:40,2025-10-28 12:19:40,0,low
+u000565,2025-08-26,regular,2,web,4,0,,,0,no_spend
+u000566,2025-11-19,premium,3,mobile,3,0,,,0,no_spend
+u000567,2025-12-25,value,2,web,0,0,,,0,no_spend
+u000568,2025-11-06,value,3,mobile,3,2,2025-10-27 11:23:51,2026-01-07 00:00:46,1,high
+u000569,2025-08-11,premium,2,web,3,0,,,0,no_spend
+u000570,2025-10-15,premium,1,mobile,3,0,,,0,no_spend
+u000571,2025-11-29,regular,2,mobile,6,0,,,0,no_spend
+u000572,2026-01-06,value,2,mobile,4,1,2025-11-06 19:22:07,2025-11-06 19:22:07,0,medium
+u000573,2025-07-26,regular,2,web,1,0,,,0,no_spend
+u000574,2025-07-20,value,2,mobile,3,1,2025-10-25 11:05:02,2025-10-25 11:05:02,0,medium
+u000575,2025-09-18,value,1,mobile,3,1,2025-12-09 04:07:46,2025-12-09 04:07:46,0,low
+u000576,2025-07-19,regular,3,web,3,0,,,0,no_spend
+u000577,2026-01-15,regular,1,web,4,0,,,0,no_spend
+u000578,2025-09-20,regular,3,mobile,4,1,2025-11-06 10:20:12,2025-11-06 10:20:12,0,low
+u000579,2025-10-13,regular,1,web,2,0,,,0,no_spend
+u000580,2025-08-10,value,1,web,4,0,,,0,no_spend
+u000581,2025-09-25,value,2,web,6,1,2025-11-11 09:04:19,2025-11-11 09:04:19,0,low
+u000582,2026-01-16,regular,2,web,6,0,,,0,no_spend
+u000583,2025-10-04,premium,2,web,4,0,,,0,no_spend
+u000584,2025-06-25,value,2,mobile,2,0,,,0,no_spend
+u000585,2025-08-13,regular,3,web,3,0,,,0,no_spend
+u000586,2026-01-14,value,2,mobile,6,1,2025-11-09 18:56:12,2025-11-09 18:56:12,0,low
+u000587,2026-01-17,value,2,web,8,0,,,0,no_spend
+u000588,2025-08-06,regular,2,web,2,0,,,0,no_spend
+u000589,2025-10-30,value,1,web,4,0,,,0,no_spend
+u000590,2025-07-09,regular,2,mobile,1,0,,,0,no_spend
+u000591,2025-10-22,regular,1,mobile,4,0,,,0,no_spend
+u000592,2025-07-19,value,2,web,7,0,,,0,no_spend
+u000593,2025-12-12,value,1,web,2,0,,,0,no_spend
+u000594,2026-01-06,value,3,web,6,0,,,0,no_spend
+u000595,2025-07-29,premium,2,web,7,0,,,0,no_spend
+u000596,2025-09-28,regular,3,mobile,3,0,,,0,no_spend
+u000597,2025-07-14,regular,2,web,3,0,,,0,no_spend
+u000598,2025-09-02,value,1,mobile,3,0,,,0,no_spend
+u000599,2025-07-07,regular,3,mobile,2,0,,,0,no_spend
+u000600,2025-08-17,value,2,web,3,0,,,0,no_spend
+u000601,2026-01-17,regular,3,mobile,5,2,2025-10-26 20:08:08,2025-12-12 21:02:03,1,high
+u000602,2025-07-02,regular,2,web,1,0,,,0,no_spend
+u000603,2025-12-20,regular,2,mobile,2,0,,,0,no_spend
+u000604,2025-07-09,value,3,web,1,0,,,0,no_spend
+u000605,2025-10-12,value,2,mobile,7,0,,,0,no_spend
+u000606,2025-09-26,value,2,web,4,0,,,0,no_spend
+u000607,2026-01-05,regular,2,web,4,0,,,0,no_spend
+u000608,2025-08-04,premium,2,mobile,1,0,,,0,no_spend
+u000609,2025-07-31,value,3,web,3,0,,,0,no_spend
+u000610,2025-11-27,regular,2,web,5,2,2025-11-09 05:26:36,2025-12-08 14:49:35,1,high
+u000611,2025-11-22,regular,2,mobile,3,0,,,0,no_spend
+u000612,2025-11-17,value,3,web,4,1,2026-01-11 08:27:09,2026-01-11 08:27:09,0,high
+u000613,2025-06-28,value,2,mobile,3,0,,,0,no_spend
+u000614,2025-08-17,value,3,mobile,1,0,,,0,no_spend
+u000615,2025-12-16,regular,2,mobile,2,0,,,0,no_spend
+u000616,2025-10-27,regular,1,web,2,1,2025-10-23 11:51:32,2025-10-23 11:51:32,0,high
+u000617,2025-10-27,regular,3,web,5,0,,,0,no_spend
+u000618,2025-08-24,premium,1,mobile,1,0,,,0,no_spend
+u000619,2025-08-17,regular,1,web,7,0,,,0,no_spend
+u000620,2026-01-08,premium,2,web,4,0,,,0,no_spend
+u000621,2025-11-23,regular,3,web,3,0,,,0,no_spend
+u000622,2025-07-20,premium,3,web,4,1,2026-01-18 12:58:28,2026-01-18 12:58:28,0,medium
+u000623,2026-01-06,regular,2,mobile,3,0,,,0,no_spend
+u000624,2025-10-23,regular,1,mobile,5,1,2025-12-16 09:54:59,2025-12-16 09:54:59,0,low
+u000625,2025-09-01,regular,3,mobile,3,0,,,0,no_spend
+u000626,2025-09-14,premium,1,mobile,3,1,2026-01-05 15:50:41,2026-01-05 15:50:41,0,high
+u000627,2025-11-22,regular,1,web,3,0,,,0,no_spend
+u000628,2025-09-10,regular,2,web,4,1,2025-12-30 06:47:13,2025-12-30 06:47:13,0,medium
+u000629,2025-10-22,regular,2,web,5,0,,,0,no_spend
+u000630,2025-11-19,premium,3,mobile,5,0,,,0,no_spend
+u000631,2025-08-03,regular,3,web,2,0,,,0,no_spend
+u000632,2026-01-07,regular,3,mobile,2,0,,,0,no_spend
+u000633,2025-09-06,regular,1,web,2,1,2025-12-24 14:12:37,2025-12-24 14:12:37,0,medium
+u000634,2025-09-19,premium,2,mobile,2,0,,,0,no_spend
+u000635,2025-11-17,value,2,mobile,2,1,2025-12-28 12:21:01,2025-12-28 12:21:01,0,high
+u000636,2025-10-29,regular,1,mobile,3,0,,,0,no_spend
+u000637,2025-09-23,regular,2,web,1,0,,,0,no_spend
+u000638,2025-11-06,premium,2,mobile,5,2,2025-12-30 08:25:23,2026-01-19 01:14:32,1,high
+u000639,2025-12-30,premium,1,web,7,0,,,0,no_spend
+u000640,2025-12-08,regular,2,web,3,0,,,0,no_spend
+u000641,2025-12-13,regular,3,web,2,0,,,0,no_spend
+u000642,2025-08-16,value,1,web,1,1,2025-12-30 08:18:32,2025-12-30 08:18:32,0,low
+u000643,2025-09-19,premium,2,mobile,0,0,,,0,no_spend
+u000644,2025-10-17,value,3,web,2,0,,,0,no_spend
+u000645,2025-07-02,regular,3,web,7,0,,,0,no_spend
+u000646,2025-12-02,regular,3,mobile,5,0,,,0,no_spend
+u000647,2025-08-30,regular,2,mobile,2,0,,,0,no_spend
+u000648,2025-08-21,value,3,mobile,2,1,2025-10-21 20:05:05,2025-10-21 20:05:05,0,low
+u000649,2025-08-16,value,1,mobile,6,1,2025-12-25 01:29:35,2025-12-25 01:29:35,0,low
+u000650,2025-08-21,premium,2,web,3,0,,,0,no_spend
+u000651,2025-09-02,regular,1,mobile,6,0,,,0,no_spend
+u000652,2025-10-28,value,2,web,8,1,2026-01-11 04:42:13,2026-01-11 04:42:13,0,high
+u000653,2025-10-23,regular,2,web,4,1,2025-11-13 23:23:15,2025-11-13 23:23:15,0,medium
+u000654,2025-08-16,value,1,web,2,0,,,0,no_spend
+u000655,2025-08-05,premium,3,mobile,3,1,2025-11-25 09:47:29,2025-11-25 09:47:29,0,medium
+u000656,2025-12-13,value,2,web,2,0,,,0,no_spend
+u000657,2025-07-12,value,2,mobile,2,0,,,0,no_spend
+u000658,2025-10-09,value,1,web,0,0,,,0,no_spend
+u000659,2025-10-10,regular,2,web,6,1,2025-11-21 12:16:17,2025-11-21 12:16:17,0,medium
+u000660,2025-10-22,regular,2,web,4,0,,,0,no_spend
+u000661,2025-12-26,regular,2,web,7,1,2025-12-18 05:15:03,2025-12-18 05:15:03,0,high
+u000662,2025-11-01,regular,1,web,2,0,,,0,no_spend
+u000663,2026-01-13,value,3,mobile,9,1,2025-11-22 06:41:29,2025-11-22 06:41:29,0,medium
+u000664,2025-12-23,value,3,web,3,0,,,0,no_spend
+u000665,2025-08-07,value,2,web,2,0,,,0,no_spend
+u000666,2025-08-13,premium,2,mobile,2,0,,,0,no_spend
+u000667,2025-09-03,value,3,web,3,0,,,0,no_spend
+u000668,2025-09-13,premium,3,web,8,0,,,0,no_spend
+u000669,2025-10-17,value,2,web,0,0,,,0,no_spend
+u000670,2025-08-11,value,3,web,4,2,2025-11-11 21:48:04,2025-12-19 03:20:38,1,medium
+u000671,2025-08-09,value,3,web,4,0,,,0,no_spend
+u000672,2025-09-11,value,3,mobile,3,0,,,0,no_spend
+u000673,2025-11-11,regular,2,web,4,1,2025-11-29 18:50:42,2025-11-29 18:50:42,0,medium
+u000674,2025-11-14,regular,1,mobile,3,0,,,0,no_spend
+u000675,2026-01-14,value,1,web,3,0,,,0,no_spend
+u000676,2025-08-04,regular,2,mobile,2,0,,,0,no_spend
+u000677,2025-09-13,regular,2,mobile,0,0,,,0,no_spend
+u000678,2026-01-12,premium,2,web,4,0,,,0,no_spend
+u000679,2025-11-15,premium,2,web,1,0,,,0,no_spend
+u000680,2025-10-25,regular,2,web,5,1,2026-01-10 14:53:30,2026-01-10 14:53:30,0,medium
+u000681,2025-10-14,regular,3,mobile,2,0,,,0,no_spend
+u000682,2025-07-09,regular,1,mobile,2,0,,,0,no_spend
+u000683,2025-12-28,regular,1,web,4,1,2025-10-24 03:21:55,2025-10-24 03:21:55,0,medium
+u000684,2025-11-01,regular,3,mobile,2,0,,,0,no_spend
+u000685,2025-10-21,value,3,web,3,1,2025-11-24 22:42:15,2025-11-24 22:42:15,0,low
+u000686,2025-10-14,regular,3,web,5,0,,,0,no_spend
+u000687,2025-09-13,premium,3,mobile,2,0,,,0,no_spend
+u000688,2025-08-15,value,3,web,3,0,,,0,no_spend
+u000689,2025-11-29,regular,2,web,4,0,,,0,no_spend
+u000690,2025-10-08,premium,2,mobile,2,0,,,0,no_spend
+u000691,2025-06-30,value,2,web,5,1,2025-12-28 18:50:26,2025-12-28 18:50:26,0,low
+u000692,2025-09-15,regular,2,mobile,2,1,2025-11-14 02:49:19,2025-11-14 02:49:19,0,low
+u000693,2026-01-04,premium,3,web,3,0,,,0,no_spend
+u000694,2025-09-09,premium,2,web,1,0,,,0,no_spend
+u000695,2025-09-18,value,2,web,3,0,,,0,no_spend
+u000696,2025-11-01,value,2,mobile,3,0,,,0,no_spend
+u000697,2025-12-08,regular,1,web,1,0,,,0,no_spend
+u000698,2025-11-10,value,1,web,3,0,,,0,no_spend
+u000699,2025-12-18,value,1,mobile,3,0,,,0,no_spend
+u000700,2025-07-17,value,3,mobile,5,0,,,0,no_spend
+u000701,2026-01-03,value,2,mobile,2,0,,,0,no_spend
+u000702,2025-12-30,regular,3,mobile,0,0,,,0,no_spend
+u000703,2025-10-10,regular,2,web,1,0,,,0,no_spend
+u000704,2025-11-01,regular,1,mobile,2,1,2025-11-04 06:59:40,2025-11-04 06:59:40,0,low
+u000705,2025-08-07,regular,1,mobile,1,0,,,0,no_spend
+u000706,2025-09-25,regular,3,mobile,3,0,,,0,no_spend
+u000707,2025-08-05,value,2,mobile,8,0,,,0,no_spend
+u000708,2025-06-28,value,3,web,5,0,,,0,no_spend
+u000709,2026-01-15,value,1,web,8,0,,,0,no_spend
+u000710,2025-08-16,value,2,mobile,3,0,,,0,no_spend
+u000711,2025-10-25,value,3,web,4,0,,,0,no_spend
+u000712,2025-08-25,value,1,web,5,0,,,0,no_spend
+u000713,2025-09-09,value,2,web,5,2,2025-12-17 04:51:03,2025-12-17 04:51:23,1,high
+u000714,2025-09-14,regular,3,mobile,1,0,,,0,no_spend
+u000715,2025-09-01,regular,2,mobile,5,0,,,0,no_spend
+u000716,2025-11-04,premium,2,mobile,1,0,,,0,no_spend
+u000717,2026-01-11,regular,2,mobile,3,0,,,0,no_spend
+u000718,2025-09-21,regular,2,mobile,2,0,,,0,no_spend
+u000719,2026-01-13,value,3,mobile,2,1,2025-12-11 08:00:07,2025-12-11 08:00:07,0,low
+u000720,2025-11-10,regular,3,web,0,0,,,0,no_spend
+u000721,2025-10-28,value,2,mobile,3,0,,,0,no_spend
+u000722,2025-08-12,regular,3,web,3,0,,,0,no_spend
+u000723,2025-07-06,regular,1,web,4,0,,,0,no_spend
+u000724,2025-12-19,regular,1,web,4,1,2026-01-11 04:06:52,2026-01-11 04:06:52,0,low
+u000725,2025-10-21,value,2,mobile,1,0,,,0,no_spend
+u000726,2025-09-18,regular,3,mobile,4,0,,,0,no_spend
+u000727,2025-12-10,regular,1,mobile,6,1,2025-10-25 16:06:22,2025-10-25 16:06:22,0,medium
+u000728,2025-08-27,regular,1,mobile,2,0,,,0,no_spend
+u000729,2025-12-05,regular,2,mobile,4,0,,,0,no_spend
+u000730,2025-08-31,regular,3,web,3,0,,,0,no_spend
+u000731,2026-01-02,value,1,mobile,1,1,2025-11-28 14:04:43,2025-11-28 14:04:43,0,high
+u000732,2025-08-18,regular,2,mobile,4,1,2025-11-10 03:30:57,2025-11-10 03:30:57,0,medium
+u000733,2025-07-22,regular,3,mobile,1,0,,,0,no_spend
+u000734,2025-11-17,value,2,web,0,0,,,0,no_spend
+u000735,2025-07-27,value,1,web,3,0,,,0,no_spend
+u000736,2026-01-08,premium,1,mobile,3,0,,,0,no_spend
+u000737,2025-11-08,regular,2,web,2,0,,,0,no_spend
+u000738,2025-08-10,regular,2,web,4,2,2025-11-21 06:25:05,2025-12-08 19:10:16,1,high
+u000739,2025-08-06,regular,3,web,6,1,2026-01-12 14:51:51,2026-01-12 14:51:51,0,low
+u000740,2026-01-03,regular,2,web,4,1,2025-12-06 02:22:14,2025-12-06 02:22:14,0,low
+u000741,2025-10-29,regular,2,web,5,1,2025-11-28 21:40:15,2025-11-28 21:40:15,0,high
+u000742,2025-12-28,value,3,mobile,4,1,2025-11-12 20:34:27,2025-11-12 20:34:27,0,medium
+u000743,2025-07-16,regular,2,mobile,2,0,,,0,no_spend
+u000744,2026-01-03,regular,2,mobile,8,0,,,0,no_spend
+u000745,2025-10-10,value,3,web,3,0,,,0,no_spend
+u000746,2025-11-10,regular,1,web,6,1,2025-12-15 22:29:17,2025-12-15 22:29:17,0,medium
+u000747,2025-09-09,value,3,web,4,0,,,0,no_spend
+u000748,2025-07-05,regular,3,web,5,1,2025-12-23 20:56:50,2025-12-23 20:56:50,0,medium
+u000749,2026-01-10,regular,1,web,3,1,2025-11-12 10:51:02,2025-11-12 10:51:02,0,medium
+u000750,2026-01-18,regular,2,mobile,3,0,,,0,no_spend
+u000751,2025-09-07,regular,1,mobile,4,0,,,0,no_spend
+u000752,2026-01-07,premium,1,web,4,0,,,0,no_spend
+u000753,2025-07-28,regular,2,web,5,1,2025-12-31 21:33:52,2025-12-31 21:33:52,0,medium
+u000754,2025-07-25,regular,2,web,3,0,,,0,no_spend
+u000755,2025-07-08,regular,3,web,1,0,,,0,no_spend
+u000756,2025-09-13,value,3,web,4,0,,,0,no_spend
+u000757,2025-07-04,value,3,web,1,0,,,0,no_spend
+u000758,2025-09-14,regular,2,web,4,1,2025-11-04 14:19:05,2025-11-04 14:19:05,0,medium
+u000759,2025-07-22,value,2,web,4,0,,,0,no_spend
+u000760,2025-11-23,regular,2,mobile,1,0,,,0,no_spend
+u000761,2025-12-15,regular,1,web,2,0,,,0,no_spend
+u000762,2025-11-14,regular,3,web,2,0,,,0,no_spend
+u000763,2025-08-04,value,2,web,6,0,,,0,no_spend
+u000764,2025-12-01,regular,1,web,1,0,,,0,no_spend
+u000765,2025-08-14,regular,3,mobile,2,1,2025-12-22 04:54:50,2025-12-22 04:54:50,0,high
+u000766,2025-11-29,regular,2,mobile,2,0,,,0,no_spend
+u000767,2025-10-20,value,1,mobile,5,1,2025-11-16 07:36:48,2025-11-16 07:36:48,0,medium
+u000768,2025-09-08,regular,1,mobile,3,1,2025-10-25 19:35:25,2025-10-25 19:35:25,0,medium
+u000769,2025-07-10,value,2,web,1,0,,,0,no_spend
+u000770,2025-12-14,regular,3,web,4,1,2025-12-10 04:11:58,2025-12-10 04:11:58,0,low
+u000771,2026-01-06,value,1,web,2,0,,,0,no_spend
+u000772,2025-11-10,premium,3,web,3,0,,,0,no_spend
+u000773,2026-01-11,value,3,mobile,3,0,,,0,no_spend
+u000774,2026-01-05,regular,3,web,3,0,,,0,no_spend
+u000775,2025-08-03,value,1,web,6,1,2025-12-20 18:54:53,2025-12-20 18:54:53,0,medium
+u000776,2025-11-23,regular,1,web,3,1,2025-12-08 01:20:48,2025-12-08 01:20:48,0,medium
+u000777,2025-09-04,regular,3,web,3,0,,,0,no_spend
+u000778,2025-10-03,regular,2,mobile,7,0,,,0,no_spend
+u000779,2025-07-26,value,2,web,0,0,,,0,no_spend
+u000780,2026-01-14,value,3,web,5,1,2026-01-07 19:11:51,2026-01-07 19:11:51,0,medium
+u000781,2025-11-22,value,1,web,2,0,,,0,no_spend
+u000782,2025-08-18,premium,3,mobile,3,0,,,0,no_spend
+u000783,2025-09-09,regular,3,web,2,0,,,0,no_spend
+u000784,2025-09-20,value,3,mobile,8,1,2025-12-19 01:21:03,2025-12-19 01:21:03,0,medium
+u000785,2025-11-27,premium,2,web,4,0,,,0,no_spend
+u000786,2026-01-03,value,3,web,4,1,2025-12-23 21:36:09,2025-12-23 21:36:09,0,medium
+u000787,2025-08-29,regular,2,mobile,2,0,,,0,no_spend
+u000788,2025-09-30,regular,3,web,3,0,,,0,no_spend
+u000789,2025-10-26,premium,3,web,4,1,2026-01-15 19:01:18,2026-01-15 19:01:18,0,low
+u000790,2025-09-14,regular,3,mobile,2,0,,,0,no_spend
+u000791,2025-10-07,regular,2,web,0,0,,,0,no_spend
+u000792,2025-07-15,premium,1,web,3,0,,,0,no_spend
+u000793,2025-07-28,value,1,mobile,2,0,,,0,no_spend
+u000794,2025-09-15,premium,2,web,7,1,2026-01-07 05:42:11,2026-01-07 05:42:11,0,low
+u000795,2026-01-01,regular,2,web,0,0,,,0,no_spend
+u000796,2025-09-04,premium,2,web,7,1,2026-01-17 00:42:13,2026-01-17 00:42:13,0,low
+u000797,2025-08-14,value,2,mobile,6,2,2025-11-22 21:36:59,2025-12-23 01:14:43,1,high
+u000798,2025-11-26,value,3,web,3,3,2025-11-01 18:44:02,2025-12-12 15:53:11,1,high
+u000799,2026-01-08,regular,3,web,5,1,2025-10-29 10:11:41,2025-10-29 10:11:41,0,high
+u000800,2025-09-27,regular,1,mobile,4,0,,,0,no_spend
+u000801,2025-06-25,regular,3,mobile,3,1,2025-10-31 06:49:16,2025-10-31 06:49:16,0,low
+u000802,2025-11-14,premium,2,mobile,1,0,,,0,no_spend
+u000803,2025-09-18,regular,2,web,4,0,,,0,no_spend
+u000804,2025-11-11,value,1,web,3,0,,,0,no_spend
+u000805,2025-08-20,regular,3,web,2,0,,,0,no_spend
+u000806,2025-06-23,value,3,mobile,2,0,,,0,no_spend
+u000807,2025-09-03,value,3,web,4,0,,,0,no_spend
+u000808,2025-11-18,value,3,mobile,1,0,,,0,no_spend
+u000809,2025-09-13,regular,3,web,2,0,,,0,no_spend
+u000810,2025-08-08,regular,2,mobile,1,0,,,0,no_spend
+u000811,2025-09-28,regular,2,mobile,4,0,,,0,no_spend
+u000812,2025-11-28,regular,2,web,3,0,,,0,no_spend
+u000813,2025-07-18,regular,3,mobile,2,0,,,0,no_spend
+u000814,2025-11-15,regular,1,mobile,5,0,,,0,no_spend
+u000815,2025-11-10,premium,2,web,1,0,,,0,no_spend
+u000816,2025-09-09,regular,3,web,4,2,2025-12-09 17:08:41,2026-01-14 22:12:19,1,high
+u000817,2026-01-13,regular,2,mobile,4,0,,,0,no_spend
+u000818,2025-12-28,regular,3,web,1,0,,,0,no_spend
+u000819,2025-08-28,regular,2,web,8,0,,,0,no_spend
+u000820,2025-06-29,premium,3,web,2,0,,,0,no_spend
+u000821,2025-08-27,regular,3,mobile,3,0,,,0,no_spend
+u000822,2025-08-05,regular,2,web,3,0,,,0,no_spend
+u000823,2025-10-16,value,3,mobile,2,0,,,0,no_spend
+u000824,2026-01-02,regular,2,web,5,0,,,0,no_spend
+u000825,2025-12-23,regular,2,web,2,0,,,0,no_spend
+u000826,2025-08-26,regular,2,mobile,4,1,2025-11-14 07:49:52,2025-11-14 07:49:52,0,medium
+u000827,2025-09-21,regular,3,web,6,0,,,0,no_spend
+u000828,2025-07-01,value,1,web,5,1,2025-10-30 08:45:06,2025-10-30 08:45:06,0,low
+u000829,2025-10-15,premium,1,web,1,0,,,0,no_spend
+u000830,2025-07-06,value,3,mobile,3,0,,,0,no_spend
+u000831,2026-01-06,premium,2,web,2,1,2025-12-14 02:07:59,2025-12-14 02:07:59,0,medium
+u000832,2025-12-22,value,2,web,2,0,,,0,no_spend
+u000833,2025-08-07,regular,1,web,2,0,,,0,no_spend
+u000834,2025-11-17,regular,2,web,6,0,,,0,no_spend
+u000835,2025-10-20,regular,3,web,2,0,,,0,no_spend
+u000836,2025-12-08,value,1,web,1,0,,,0,no_spend
+u000837,2025-10-01,premium,2,web,4,0,,,0,no_spend
+u000838,2025-08-02,regular,3,web,3,0,,,0,no_spend
+u000839,2025-11-04,regular,1,mobile,1,0,,,0,no_spend
+u000840,2025-07-10,regular,3,mobile,5,0,,,0,no_spend
+u000841,2025-10-24,value,2,web,4,0,,,0,no_spend
+u000842,2025-08-07,regular,3,web,4,0,,,0,no_spend
+u000843,2025-11-14,value,3,web,3,0,,,0,no_spend
+u000844,2025-12-14,value,3,mobile,1,0,,,0,no_spend
+u000845,2025-07-16,regular,1,web,3,0,,,0,no_spend
+u000846,2025-09-15,regular,2,web,3,1,2025-12-04 04:42:27,2025-12-04 04:42:27,0,low
+u000847,2025-11-24,value,3,web,4,0,,,0,no_spend
+u000848,2025-07-27,value,1,web,3,0,,,0,no_spend
+u000849,2025-10-20,value,1,web,3,0,,,0,no_spend
+u000850,2025-11-11,value,1,web,4,0,,,0,no_spend
+u000851,2025-09-05,regular,3,mobile,1,0,,,0,no_spend
+u000852,2025-12-15,value,3,mobile,1,0,,,0,no_spend
+u000853,2025-10-08,premium,2,mobile,2,1,2025-11-27 11:31:37,2025-11-27 11:31:37,0,low
+u000854,2025-11-02,value,3,mobile,1,0,,,0,no_spend
+u000855,2025-07-23,value,2,web,4,0,,,0,no_spend
+u000856,2025-06-28,premium,2,mobile,3,1,2025-10-24 16:50:38,2025-10-24 16:50:38,0,medium
+u000857,2025-07-04,value,2,mobile,1,0,,,0,no_spend
+u000858,2025-12-30,regular,2,mobile,1,0,,,0,no_spend
+u000859,2025-12-25,premium,1,mobile,3,0,,,0,no_spend
+u000860,2025-12-10,premium,3,web,2,0,,,0,no_spend
+u000861,2025-08-04,regular,3,web,1,0,,,0,no_spend
+u000862,2025-10-11,value,2,web,2,0,,,0,no_spend
+u000863,2025-12-07,regular,2,web,6,0,,,0,no_spend
+u000864,2025-11-12,premium,1,web,4,0,,,0,no_spend
+u000865,2025-07-17,premium,3,web,2,0,,,0,no_spend
+u000866,2025-12-28,value,3,web,5,0,,,0,no_spend
+u000867,2025-07-27,regular,3,mobile,7,0,,,0,no_spend
+u000868,2025-07-29,value,2,mobile,3,0,,,0,no_spend
+u000869,2025-12-29,value,1,mobile,5,0,,,0,no_spend
+u000870,2025-10-03,regular,1,web,2,0,,,0,no_spend
+u000871,2025-09-09,value,1,mobile,3,1,2025-12-30 09:41:32,2025-12-30 09:41:32,0,low
+u000872,2025-10-17,value,1,mobile,1,0,,,0,no_spend
+u000873,2026-01-15,value,1,mobile,4,0,,,0,no_spend
+u000874,2025-07-18,regular,3,mobile,2,0,,,0,no_spend
+u000875,2025-11-29,value,1,web,3,0,,,0,no_spend
+u000876,2025-09-01,regular,1,web,4,1,2025-10-29 03:45:19,2025-10-29 03:45:19,0,low
+u000877,2025-07-18,value,3,mobile,2,0,,,0,no_spend
+u000878,2025-09-20,premium,2,mobile,3,0,,,0,no_spend
+u000879,2025-10-16,value,3,web,3,0,,,0,no_spend
+u000880,2025-08-05,regular,2,web,5,0,,,0,no_spend
+u000881,2025-09-16,value,3,web,3,0,,,0,no_spend
+u000882,2025-11-03,value,2,web,5,0,,,0,no_spend
+u000883,2025-10-22,value,2,mobile,2,0,,,0,no_spend
+u000884,2025-11-22,value,3,mobile,2,0,,,0,no_spend
+u000885,2025-12-16,value,2,web,4,0,,,0,no_spend
+u000886,2025-09-17,regular,2,web,5,0,,,0,no_spend
+u000887,2025-09-20,regular,2,web,4,1,2025-12-24 20:47:30,2025-12-24 20:47:30,0,low
+u000888,2025-10-05,value,1,web,2,1,2025-12-17 07:11:17,2025-12-17 07:11:17,0,low
+u000889,2025-10-20,regular,3,web,5,0,,,0,no_spend
+u000890,2025-07-16,regular,2,mobile,1,0,,,0,no_spend
+u000891,2025-08-28,value,1,mobile,4,1,2025-12-11 14:31:30,2025-12-11 14:31:30,0,high
+u000892,2025-07-29,regular,1,web,6,0,,,0,no_spend
+u000893,2025-09-12,value,3,mobile,2,0,,,0,no_spend
+u000894,2026-01-13,value,2,mobile,5,0,,,0,no_spend
+u000895,2025-10-23,regular,2,web,6,0,,,0,no_spend
+u000896,2025-09-21,premium,3,mobile,4,1,2025-11-14 10:07:24,2025-11-14 10:07:24,0,high
+u000897,2025-10-20,premium,1,mobile,6,1,2025-12-28 05:33:46,2025-12-28 05:33:46,0,medium
+u000898,2025-11-10,premium,3,mobile,4,1,2025-11-18 02:00:40,2025-11-18 02:00:40,0,medium
+u000899,2025-09-22,regular,2,web,3,1,2026-01-11 12:40:27,2026-01-11 12:40:27,0,low
+u000900,2025-09-25,value,1,web,6,1,2025-10-25 19:37:15,2025-10-25 19:37:15,0,medium
+u000901,2025-11-17,value,2,web,2,0,,,0,no_spend
+u000902,2025-07-06,value,3,web,5,0,,,0,no_spend
+u000903,2025-10-14,value,2,web,2,0,,,0,no_spend
+u000904,2025-10-16,value,2,mobile,2,0,,,0,no_spend
+u000905,2025-11-29,regular,2,web,4,0,,,0,no_spend
+u000906,2026-01-15,value,2,web,4,0,,,0,no_spend
+u000907,2025-12-07,value,2,mobile,5,0,,,0,no_spend
+u000908,2025-10-07,regular,2,web,4,1,2025-12-17 08:38:28,2025-12-17 08:38:28,0,medium
+u000909,2025-07-29,regular,2,web,5,0,,,0,no_spend
+u000910,2025-10-24,premium,1,mobile,1,0,,,0,no_spend
+u000911,2025-12-15,value,2,web,4,0,,,0,no_spend
+u000912,2026-01-05,regular,2,web,1,0,,,0,no_spend
+u000913,2025-12-13,value,2,mobile,4,0,,,0,no_spend
+u000914,2025-08-02,regular,1,web,1,0,,,0,no_spend
+u000915,2025-11-20,value,2,web,3,0,,,0,no_spend
+u000916,2025-12-25,value,2,web,4,1,2025-12-02 09:40:14,2025-12-02 09:40:14,0,low
+u000917,2025-11-13,regular,1,mobile,5,0,,,0,no_spend
+u000918,2025-11-14,value,1,web,3,0,,,0,no_spend
+u000919,2025-10-06,value,2,mobile,4,0,,,0,no_spend
+u000920,2025-11-04,premium,3,web,2,0,,,0,no_spend
+u000921,2025-08-24,value,1,mobile,3,0,,,0,no_spend
+u000922,2025-07-12,regular,3,web,2,0,,,0,no_spend
+u000923,2025-12-14,regular,2,web,3,0,,,0,no_spend
+u000924,2026-01-07,value,3,web,4,0,,,0,no_spend
+u000925,2025-12-20,regular,2,mobile,1,0,,,0,no_spend
+u000926,2025-09-01,value,2,web,2,0,,,0,no_spend
+u000927,2025-07-13,regular,2,web,1,0,,,0,no_spend
+u000928,2025-08-21,value,3,web,5,0,,,0,no_spend
+u000929,2025-12-17,value,2,web,1,0,,,0,no_spend
+u000930,2025-11-08,value,2,mobile,2,0,,,0,no_spend
+u000931,2026-01-12,premium,2,web,3,0,,,0,no_spend
+u000932,2025-09-03,regular,3,web,1,0,,,0,no_spend
+u000933,2025-10-17,premium,1,web,3,1,2025-12-13 09:52:21,2025-12-13 09:52:21,0,medium
+u000934,2025-12-06,regular,2,web,1,0,,,0,no_spend
+u000935,2025-08-11,regular,2,web,1,0,,,0,no_spend
+u000936,2026-01-11,regular,3,web,3,0,,,0,no_spend
+u000937,2025-10-25,premium,2,web,2,0,,,0,no_spend
+u000938,2025-06-25,regular,2,mobile,1,1,2025-11-06 14:05:58,2025-11-06 14:05:58,0,high
+u000939,2025-06-28,regular,3,web,4,0,,,0,no_spend
+u000940,2025-12-25,regular,2,mobile,1,0,,,0,no_spend
+u000941,2025-11-05,regular,1,web,4,0,,,0,no_spend
+u000942,2025-11-30,value,1,web,1,0,,,0,no_spend
+u000943,2025-12-05,regular,1,web,4,1,2025-12-28 16:52:17,2025-12-28 16:52:17,0,medium
+u000944,2025-09-19,value,1,web,9,3,2025-11-09 12:23:41,2026-01-19 05:57:53,1,high
+u000945,2025-12-08,regular,2,mobile,4,0,,,0,no_spend
+u000946,2026-01-06,regular,3,mobile,1,0,,,0,no_spend
+u000947,2025-07-29,regular,3,mobile,4,0,,,0,no_spend
+u000948,2025-11-30,regular,1,mobile,3,0,,,0,no_spend
+u000949,2025-08-27,regular,2,web,2,0,,,0,no_spend
+u000950,2025-08-29,value,1,web,1,0,,,0,no_spend
+u000951,2025-09-18,premium,3,mobile,3,1,2025-11-02 16:15:24,2025-11-02 16:15:24,0,high
+u000952,2025-12-21,regular,1,web,2,0,,,0,no_spend
+u000953,2025-06-28,value,2,web,3,0,,,0,no_spend
+u000954,2025-09-22,value,2,mobile,3,0,,,0,no_spend
+u000955,2025-11-13,value,2,mobile,4,1,2025-12-26 16:40:31,2025-12-26 16:40:31,0,medium
+u000956,2025-07-16,regular,2,mobile,3,1,2025-11-30 21:41:20,2025-11-30 21:41:20,0,medium
+u000957,2025-12-06,regular,3,web,6,1,2026-01-19 09:43:20,2026-01-19 09:43:20,0,high
+u000958,2026-01-07,premium,1,mobile,6,1,2025-12-09 17:12:47,2025-12-09 17:12:47,0,medium
+u000959,2025-07-12,regular,3,web,7,0,,,0,no_spend
+u000960,2025-07-25,regular,2,web,2,0,,,0,no_spend
+u000961,2026-01-14,regular,3,web,1,0,,,0,no_spend
+u000962,2025-08-03,regular,3,mobile,4,1,2026-01-10 05:24:03,2026-01-10 05:24:03,0,high
+u000963,2025-07-10,regular,3,mobile,3,0,,,0,no_spend
+u000964,2026-01-09,value,1,mobile,3,0,,,0,no_spend
+u000965,2025-12-27,premium,2,web,3,0,,,0,no_spend
+u000966,2025-11-08,regular,2,web,4,1,2025-12-02 14:51:48,2025-12-02 14:51:48,0,low
+u000967,2025-10-17,regular,2,web,6,1,2025-12-14 01:58:09,2025-12-14 01:58:09,0,high
+u000968,2026-01-02,premium,2,mobile,0,0,,,0,no_spend
+u000969,2025-11-08,regular,3,web,4,1,2025-11-01 18:56:57,2025-11-01 18:56:57,0,low
+u000970,2025-11-08,value,3,web,7,1,2025-12-17 00:16:57,2025-12-17 00:16:57,0,medium
+u000971,2025-12-17,regular,2,mobile,3,0,,,0,no_spend
+u000972,2025-11-07,value,2,web,5,0,,,0,no_spend
+u000973,2025-10-07,regular,3,mobile,2,0,,,0,no_spend
+u000974,2025-09-13,value,3,web,4,0,,,0,no_spend
+u000975,2025-10-07,regular,1,mobile,2,0,,,0,no_spend
+u000976,2025-10-11,premium,2,web,2,0,,,0,no_spend
+u000977,2025-09-07,value,3,web,2,0,,,0,no_spend
+u000978,2025-09-25,regular,2,web,8,1,2025-12-11 16:52:14,2025-12-11 16:52:14,0,medium
+u000979,2025-12-08,regular,2,web,1,0,,,0,no_spend
+u000980,2025-09-18,regular,3,mobile,4,0,,,0,no_spend
+u000981,2025-06-28,value,3,web,3,0,,,0,no_spend
+u000982,2025-08-21,value,3,web,6,0,,,0,no_spend
+u000983,2025-08-11,regular,3,mobile,8,0,,,0,no_spend
+u000984,2025-12-07,regular,2,web,2,0,,,0,no_spend
+u000985,2025-09-25,regular,2,mobile,2,0,,,0,no_spend
+u000986,2025-08-21,value,2,mobile,7,0,,,0,no_spend
+u000987,2025-12-10,regular,2,web,2,2,2025-10-31 17:50:31,2026-01-15 21:27:03,1,high
+u000988,2025-06-27,regular,2,mobile,2,0,,,0,no_spend
+u000989,2025-07-30,value,2,web,5,0,,,0,no_spend
+u000990,2025-12-14,regular,2,web,4,1,2025-11-11 02:31:06,2025-11-11 02:31:06,0,high
+u000991,2025-10-17,value,3,web,8,0,,,0,no_spend
+u000992,2025-12-02,regular,2,mobile,3,0,,,0,no_spend
+u000993,2025-12-16,premium,2,mobile,2,0,,,0,no_spend
+u000994,2026-01-07,regular,1,web,4,2,2026-01-14 13:45:51,2026-01-16 13:06:14,1,medium
+u000995,2025-07-06,regular,1,mobile,4,1,2025-11-05 07:29:22,2025-11-05 07:29:22,0,medium
+u000996,2025-12-08,value,3,web,3,1,2026-01-02 01:03:49,2026-01-02 01:03:49,0,medium
+u000997,2025-11-19,value,2,mobile,2,1,2026-01-03 22:32:40,2026-01-03 22:32:40,0,medium
+u000998,2025-08-05,value,1,mobile,3,0,,,0,no_spend
+u000999,2026-01-05,regular,3,mobile,2,0,,,0,no_spend
+u001000,2025-09-16,regular,2,mobile,2,0,,,0,no_spend
+u001001,2025-12-26,value,1,mobile,4,1,2026-01-14 07:26:26,2026-01-14 07:26:26,0,low
+u001002,2025-10-28,value,2,web,1,0,,,0,no_spend
+u001003,2025-10-12,value,1,mobile,2,0,,,0,no_spend
+u001004,2025-07-26,regular,2,mobile,3,1,2025-11-05 22:28:19,2025-11-05 22:28:19,0,low
+u001005,2026-01-01,regular,2,mobile,4,0,,,0,no_spend
+u001006,2025-10-18,regular,1,web,3,1,2025-12-30 14:22:05,2025-12-30 14:22:05,0,medium
+u001007,2025-06-24,premium,1,mobile,2,0,,,0,no_spend
+u001008,2025-06-27,value,2,web,5,0,,,0,no_spend
+u001009,2025-12-03,regular,1,web,7,0,,,0,no_spend
+u001010,2025-07-27,regular,3,web,4,0,,,0,no_spend
+u001011,2025-10-27,value,1,web,2,0,,,0,no_spend
+u001012,2025-11-13,premium,2,mobile,4,0,,,0,no_spend
+u001013,2025-08-21,value,2,web,4,0,,,0,no_spend
+u001014,2025-10-20,regular,2,mobile,2,0,,,0,no_spend
+u001015,2025-08-12,regular,1,mobile,5,0,,,0,no_spend
+u001016,2026-01-08,premium,3,web,3,1,2025-12-22 22:55:33,2025-12-22 22:55:33,0,high
+u001017,2025-12-21,regular,3,mobile,2,0,,,0,no_spend
+u001018,2025-08-22,value,1,web,2,0,,,0,no_spend
+u001019,2025-10-12,regular,1,mobile,3,0,,,0,no_spend
+u001020,2025-10-06,regular,3,mobile,3,0,,,0,no_spend
+u001021,2026-01-11,regular,2,web,6,0,,,0,no_spend
+u001022,2025-09-14,regular,1,mobile,5,2,2025-10-31 01:02:46,2025-11-25 21:40:39,1,high
+u001023,2025-10-19,value,1,web,2,0,,,0,no_spend
+u001024,2026-01-04,regular,2,web,0,0,,,0,no_spend
+u001025,2025-07-27,premium,3,mobile,2,1,2025-12-23 17:36:22,2025-12-23 17:36:22,0,low
+u001026,2025-10-17,value,2,web,0,0,,,0,no_spend
+u001027,2025-07-15,regular,3,mobile,4,0,,,0,no_spend
+u001028,2025-10-31,premium,2,web,5,0,,,0,no_spend
+u001029,2025-09-08,regular,2,web,3,0,,,0,no_spend
+u001030,2026-01-12,premium,2,mobile,2,0,,,0,no_spend
+u001031,2025-09-18,regular,2,web,2,0,,,0,no_spend
+u001032,2025-07-22,premium,1,mobile,4,1,2025-12-06 17:57:22,2025-12-06 17:57:22,0,high
+u001033,2025-12-15,value,1,web,3,0,,,0,no_spend
+u001034,2025-12-12,regular,2,mobile,4,0,,,0,no_spend
+u001035,2025-11-16,regular,3,mobile,3,0,,,0,no_spend
+u001036,2025-11-27,regular,1,web,2,0,,,0,no_spend
+u001037,2025-08-18,premium,2,web,2,1,2025-12-26 12:54:22,2025-12-26 12:54:22,0,high
+u001038,2025-11-05,regular,2,web,2,0,,,0,no_spend
+u001039,2025-07-01,regular,2,mobile,7,0,,,0,no_spend
+u001040,2025-08-03,regular,3,web,1,0,,,0,no_spend
+u001041,2026-01-05,regular,3,web,3,1,2026-01-11 06:13:20,2026-01-11 06:13:20,0,high
+u001042,2025-11-25,regular,3,mobile,2,0,,,0,no_spend
+u001043,2025-08-10,value,1,web,4,0,,,0,no_spend
+u001044,2025-07-16,regular,2,web,3,0,,,0,no_spend
+u001045,2026-01-08,premium,2,web,9,1,2026-01-09 23:45:09,2026-01-09 23:45:09,0,medium
+u001046,2025-07-17,regular,1,web,4,0,,,0,no_spend
+u001047,2025-08-16,regular,1,mobile,2,0,,,0,no_spend
+u001048,2025-07-31,regular,1,mobile,5,0,,,0,no_spend
+u001049,2025-06-25,regular,2,mobile,4,1,2026-01-08 14:34:26,2026-01-08 14:34:26,0,low
+u001050,2025-08-28,value,2,mobile,4,1,2025-12-10 13:19:28,2025-12-10 13:19:28,0,low
+u001051,2026-01-14,regular,1,web,4,0,,,0,no_spend
+u001052,2025-09-03,regular,3,web,1,0,,,0,no_spend
+u001053,2025-10-07,value,3,mobile,1,0,,,0,no_spend
+u001054,2025-11-27,value,1,mobile,9,0,,,0,no_spend
+u001055,2025-10-17,regular,3,mobile,8,1,2025-11-25 17:56:37,2025-11-25 17:56:37,0,low
+u001056,2025-11-26,regular,1,web,6,1,2025-12-28 08:15:23,2025-12-28 08:15:23,0,high
+u001057,2025-11-09,regular,3,mobile,1,0,,,0,no_spend
+u001058,2025-10-29,value,3,mobile,3,0,,,0,no_spend
+u001059,2025-11-06,regular,1,mobile,4,0,,,0,no_spend
+u001060,2025-12-08,regular,3,mobile,6,1,2026-01-05 06:49:27,2026-01-05 06:49:27,0,medium
+u001061,2025-11-19,regular,3,web,8,0,,,0,no_spend
+u001062,2025-12-06,regular,3,web,0,0,,,0,no_spend
+u001063,2025-07-24,value,3,web,3,0,,,0,no_spend
+u001064,2025-11-12,premium,2,web,2,0,,,0,no_spend
+u001065,2025-11-25,value,1,mobile,4,0,,,0,no_spend
+u001066,2025-08-25,regular,3,web,4,2,2025-12-27 11:05:45,2026-01-03 07:44:32,1,high
+u001067,2025-12-24,value,2,web,7,0,,,0,no_spend
+u001068,2025-08-26,regular,2,web,7,1,2025-10-25 01:35:24,2025-10-25 01:35:24,0,high
+u001069,2025-08-13,value,2,mobile,3,0,,,0,no_spend
+u001070,2025-12-22,premium,2,web,5,1,2025-11-15 17:13:26,2025-11-15 17:13:26,0,medium
+u001071,2025-08-14,regular,1,web,4,0,,,0,no_spend
+u001072,2025-09-18,regular,3,mobile,2,0,,,0,no_spend
+u001073,2025-09-08,value,1,web,4,0,,,0,no_spend
+u001074,2025-12-29,value,3,web,0,0,,,0,no_spend
+u001075,2025-09-27,regular,3,web,7,0,,,0,no_spend
+u001076,2025-11-16,regular,2,mobile,1,0,,,0,no_spend
+u001077,2025-12-07,regular,2,mobile,8,0,,,0,no_spend
+u001078,2025-11-02,premium,2,mobile,7,2,2025-12-25 11:06:26,2026-01-16 05:39:14,1,high
+u001079,2026-01-07,regular,3,web,5,0,,,0,no_spend
+u001080,2025-12-08,premium,3,mobile,5,0,,,0,no_spend
+u001081,2025-09-15,value,2,mobile,3,0,,,0,no_spend
+u001082,2026-01-09,regular,1,web,3,0,,,0,no_spend
+u001083,2025-10-11,regular,1,web,4,0,,,0,no_spend
+u001084,2025-06-28,regular,2,web,4,0,,,0,no_spend
+u001085,2025-08-17,premium,3,mobile,3,0,,,0,no_spend
+u001086,2025-11-01,regular,3,web,5,2,2025-11-03 20:27:39,2025-12-13 19:39:25,1,high
+u001087,2025-07-26,premium,1,web,1,0,,,0,no_spend
+u001088,2025-10-24,regular,3,mobile,3,0,,,0,no_spend
+u001089,2025-09-07,value,2,mobile,4,0,,,0,no_spend
+u001090,2025-10-13,regular,3,mobile,5,0,,,0,no_spend
+u001091,2025-06-23,regular,1,mobile,7,0,,,0,no_spend
+u001092,2025-12-18,premium,2,web,4,0,,,0,no_spend
+u001093,2025-09-07,regular,3,mobile,1,0,,,0,no_spend
+u001094,2025-07-22,value,2,web,3,0,,,0,no_spend
+u001095,2025-09-23,value,2,web,2,0,,,0,no_spend
+u001096,2025-10-03,value,3,mobile,6,0,,,0,no_spend
+u001097,2025-11-04,regular,1,web,5,0,,,0,no_spend
+u001098,2025-10-11,value,1,web,4,0,,,0,no_spend
+u001099,2025-07-02,regular,2,mobile,1,0,,,0,no_spend
+u001100,2025-12-23,regular,2,web,3,0,,,0,no_spend
+u001101,2025-09-27,regular,1,web,2,0,,,0,no_spend
+u001102,2025-07-09,value,2,mobile,2,0,,,0,no_spend
+u001103,2025-12-02,regular,3,mobile,3,0,,,0,no_spend
+u001104,2025-11-09,value,2,mobile,1,0,,,0,no_spend
+u001105,2025-11-06,premium,2,web,3,1,2026-01-16 15:30:55,2026-01-16 15:30:55,0,medium
+u001106,2025-09-21,value,3,mobile,4,1,2025-11-26 18:13:11,2025-11-26 18:13:11,0,low
+u001107,2025-09-17,value,2,mobile,3,0,,,0,no_spend
+u001108,2025-10-14,value,3,web,8,0,,,0,no_spend
+u001109,2025-07-04,regular,2,web,4,0,,,0,no_spend
+u001110,2025-08-25,value,3,web,1,0,,,0,no_spend
+u001111,2026-01-16,regular,2,web,4,0,,,0,no_spend
+u001112,2025-11-09,regular,1,web,3,0,,,0,no_spend
+u001113,2025-09-19,regular,3,mobile,2,0,,,0,no_spend
+u001114,2025-08-09,value,2,mobile,3,1,2025-11-20 18:37:47,2025-11-20 18:37:47,0,low
+u001115,2025-11-26,value,1,web,3,0,,,0,no_spend
+u001116,2025-08-17,regular,1,mobile,6,0,,,0,no_spend
+u001117,2025-07-27,value,2,web,2,0,,,0,no_spend
+u001118,2025-07-25,regular,1,web,4,1,2026-01-12 19:44:02,2026-01-12 19:44:02,0,high
+u001119,2025-11-23,regular,2,mobile,4,0,,,0,no_spend
+u001120,2025-11-05,regular,1,web,0,0,,,0,no_spend
+u001121,2025-07-08,value,2,mobile,4,0,,,0,no_spend
+u001122,2025-07-17,regular,2,web,5,1,2025-12-30 16:51:53,2025-12-30 16:51:53,0,medium
+u001123,2025-11-03,value,2,web,3,0,,,0,no_spend
+u001124,2025-10-21,regular,2,web,2,1,2026-01-08 20:03:10,2026-01-08 20:03:10,0,medium
+u001125,2025-11-14,value,1,web,5,0,,,0,no_spend
+u001126,2025-07-30,premium,2,mobile,4,1,2025-10-25 02:42:22,2025-10-25 02:42:22,0,low
+u001127,2025-11-23,regular,2,mobile,2,1,2025-11-23 12:59:48,2025-11-23 12:59:48,0,medium
+u001128,2026-01-06,value,2,web,5,0,,,0,no_spend
+u001129,2025-10-27,value,1,web,0,0,,,0,no_spend
+u001130,2025-08-03,value,1,mobile,1,0,,,0,no_spend
+u001131,2025-11-13,value,1,mobile,0,0,,,0,no_spend
+u001132,2025-09-03,value,2,web,0,0,,,0,no_spend
+u001133,2025-07-03,premium,2,web,2,1,2025-11-07 16:26:49,2025-11-07 16:26:49,0,high
+u001134,2025-08-25,regular,3,web,4,1,2025-12-26 16:58:52,2025-12-26 16:58:52,0,high
+u001135,2025-12-30,value,2,web,6,1,2026-01-16 00:54:05,2026-01-16 00:54:05,0,medium
+u001136,2025-09-17,regular,2,web,3,0,,,0,no_spend
+u001137,2025-12-22,value,2,web,1,0,,,0,no_spend
+u001138,2025-10-08,premium,1,web,4,0,,,0,no_spend
+u001139,2025-10-10,value,2,web,2,0,,,0,no_spend
+u001140,2025-06-24,regular,2,web,5,1,2025-11-26 00:04:27,2025-11-26 00:04:27,0,low
+u001141,2025-11-04,regular,2,mobile,6,0,,,0,no_spend
+u001142,2025-07-16,value,1,mobile,0,0,,,0,no_spend
+u001143,2025-10-01,value,3,web,1,1,2026-01-19 07:29:04,2026-01-19 07:29:04,0,medium
+u001144,2025-08-17,regular,3,web,1,0,,,0,no_spend
+u001145,2025-09-13,premium,1,web,2,0,,,0,no_spend
+u001146,2025-10-14,regular,2,mobile,3,0,,,0,no_spend
+u001147,2025-06-26,regular,3,mobile,4,0,,,0,no_spend
+u001148,2025-08-22,regular,2,web,2,0,,,0,no_spend
+u001149,2026-01-17,regular,3,mobile,2,0,,,0,no_spend
+u001150,2025-07-05,regular,2,mobile,2,1,2025-10-31 09:42:19,2025-10-31 09:42:19,0,high
+u001151,2025-08-29,regular,3,mobile,3,0,,,0,no_spend
+u001152,2025-08-29,regular,3,web,3,0,,,0,no_spend
+u001153,2025-09-11,value,1,web,4,0,,,0,no_spend
+u001154,2025-11-14,premium,2,mobile,4,0,,,0,no_spend
+u001155,2025-08-14,value,2,web,1,0,,,0,no_spend
+u001156,2025-09-28,value,1,mobile,3,0,,,0,no_spend
+u001157,2025-11-05,regular,2,mobile,3,0,,,0,no_spend
+u001158,2025-08-30,value,3,web,7,0,,,0,no_spend
+u001159,2026-01-08,value,1,web,1,0,,,0,no_spend
+u001160,2026-01-15,value,2,web,6,0,,,0,no_spend
+u001161,2025-07-18,regular,3,web,0,0,,,0,no_spend
+u001162,2025-09-03,regular,2,mobile,3,0,,,0,no_spend
+u001163,2025-08-06,value,2,mobile,8,0,,,0,no_spend
+u001164,2025-08-01,value,3,web,5,0,,,0,no_spend
+u001165,2025-10-04,regular,2,mobile,5,0,,,0,no_spend
+u001166,2025-10-19,premium,1,web,2,1,2025-12-07 03:14:24,2025-12-07 03:14:24,0,low
+u001167,2025-09-20,value,1,mobile,7,1,2025-12-19 17:24:20,2025-12-19 17:24:20,0,medium
+u001168,2025-08-19,premium,3,web,4,0,,,0,no_spend
+u001169,2025-08-20,premium,2,mobile,7,0,,,0,no_spend
+u001170,2026-01-17,value,2,mobile,4,0,,,0,no_spend
+u001171,2026-01-03,regular,1,web,4,0,,,0,no_spend
+u001172,2025-07-09,regular,2,mobile,2,1,2025-12-25 11:30:07,2025-12-25 11:30:07,0,medium
+u001173,2025-11-08,regular,3,mobile,4,0,,,0,no_spend
+u001174,2025-09-27,regular,2,web,3,0,,,0,no_spend
+u001175,2025-11-15,regular,3,mobile,0,0,,,0,no_spend
+u001176,2025-10-26,regular,2,mobile,3,0,,,0,no_spend
+u001177,2025-12-27,regular,2,mobile,3,0,,,0,no_spend
+u001178,2025-07-07,premium,3,web,2,0,,,0,no_spend
+u001179,2025-09-04,regular,2,mobile,1,0,,,0,no_spend
+u001180,2026-01-16,regular,2,mobile,3,1,2026-01-10 13:57:00,2026-01-10 13:57:00,0,medium
+u001181,2025-07-31,premium,3,mobile,0,0,,,0,no_spend
+u001182,2025-07-20,value,2,web,6,3,2025-10-23 01:14:39,2025-11-28 03:40:11,1,high
+u001183,2025-11-23,value,2,web,2,1,2025-12-31 17:14:06,2025-12-31 17:14:06,0,medium
+u001184,2025-12-03,regular,3,mobile,0,0,,,0,no_spend
+u001185,2025-11-11,premium,1,web,2,0,,,0,no_spend
+u001186,2025-12-03,value,2,web,4,0,,,0,no_spend
+u001187,2025-11-16,regular,1,web,5,0,,,0,no_spend
+u001188,2025-07-21,value,2,mobile,4,1,2025-12-12 08:23:28,2025-12-12 08:23:28,0,high
+u001189,2025-10-29,regular,1,web,3,0,,,0,no_spend
+u001190,2025-12-03,regular,2,mobile,4,0,,,0,no_spend
+u001191,2025-12-22,value,1,mobile,2,1,2025-10-31 11:26:53,2025-10-31 11:26:53,0,low
+u001192,2025-08-14,premium,2,mobile,4,2,2025-11-24 19:38:30,2025-11-26 21:36:38,1,high
+u001193,2025-07-20,value,2,mobile,0,0,,,0,no_spend
+u001194,2025-12-04,premium,2,web,5,0,,,0,no_spend
+u001195,2025-08-16,value,2,mobile,6,1,2026-01-16 11:21:13,2026-01-16 11:21:13,0,medium
+u001196,2025-06-30,premium,3,web,2,1,2025-12-25 09:48:49,2025-12-25 09:48:49,0,low
+u001197,2025-12-13,regular,2,mobile,4,0,,,0,no_spend
+u001198,2025-10-07,value,2,web,1,0,,,0,no_spend
+u001199,2025-08-31,value,3,mobile,5,0,,,0,no_spend
+u001200,2025-06-25,value,2,mobile,3,1,2025-11-20 02:13:04,2025-11-20 02:13:04,0,low
+u001201,2025-06-30,regular,1,web,4,0,,,0,no_spend
+u001202,2025-12-06,regular,3,mobile,5,0,,,0,no_spend
+u001203,2025-10-04,regular,2,web,4,0,,,0,no_spend
+u001204,2025-07-24,regular,1,web,5,1,2025-10-28 19:48:04,2025-10-28 19:48:04,0,medium
+u001205,2025-09-06,regular,2,web,3,1,2025-12-14 19:03:49,2025-12-14 19:03:49,0,high
+u001206,2025-07-28,regular,1,web,2,0,,,0,no_spend
+u001207,2025-07-17,regular,1,mobile,7,1,2025-11-28 15:18:45,2025-11-28 15:18:45,0,high
+u001208,2025-08-20,regular,3,mobile,5,0,,,0,no_spend
+u001209,2025-10-16,regular,1,web,2,0,,,0,no_spend
+u001210,2025-08-06,premium,3,mobile,2,0,,,0,no_spend
+u001211,2025-09-03,regular,3,mobile,4,0,,,0,no_spend
+u001212,2025-10-01,value,2,mobile,3,0,,,0,no_spend
+u001213,2025-09-19,value,3,web,1,0,,,0,no_spend
+u001214,2025-07-20,regular,3,mobile,6,0,,,0,no_spend
+u001215,2025-07-01,value,3,web,2,0,,,0,no_spend
+u001216,2025-06-30,premium,2,mobile,2,0,,,0,no_spend
+u001217,2025-09-04,regular,1,mobile,3,0,,,0,no_spend
+u001218,2025-11-21,regular,2,mobile,3,0,,,0,no_spend
+u001219,2025-07-21,regular,2,web,3,0,,,0,no_spend
+u001220,2025-12-05,value,1,web,1,0,,,0,no_spend
+u001221,2025-11-20,regular,2,mobile,7,1,2025-12-19 18:53:26,2025-12-19 18:53:26,0,medium
+u001222,2025-06-24,value,1,web,3,0,,,0,no_spend
+u001223,2025-06-29,regular,3,web,4,1,2025-11-22 19:26:50,2025-11-22 19:26:50,0,medium
+u001224,2025-08-03,premium,2,mobile,1,0,,,0,no_spend
+u001225,2025-07-05,regular,1,mobile,2,0,,,0,no_spend
+u001226,2025-10-13,premium,1,web,3,0,,,0,no_spend
+u001227,2025-07-01,regular,1,web,2,0,,,0,no_spend
+u001228,2025-12-08,regular,2,mobile,4,0,,,0,no_spend
+u001229,2025-10-04,regular,1,web,3,1,2026-01-16 09:25:01,2026-01-16 09:25:01,0,medium
+u001230,2025-11-23,regular,2,web,0,0,,,0,no_spend
+u001231,2025-11-28,value,1,web,4,1,2025-12-24 02:38:13,2025-12-24 02:38:13,0,high
+u001232,2025-10-07,value,2,web,8,0,,,0,no_spend
+u001233,2026-01-03,regular,2,mobile,0,0,,,0,no_spend
+u001234,2026-01-17,value,2,web,0,0,,,0,no_spend
+u001235,2025-09-06,regular,2,web,5,0,,,0,no_spend
+u001236,2025-07-19,regular,1,web,2,0,,,0,no_spend
+u001237,2025-09-07,premium,1,web,3,0,,,0,no_spend
+u001238,2025-08-09,value,1,web,2,0,,,0,no_spend
+u001239,2025-10-12,premium,3,mobile,4,1,2025-11-18 13:57:49,2025-11-18 13:57:49,0,high
+u001240,2025-09-10,value,3,mobile,3,0,,,0,no_spend
+u001241,2025-10-02,regular,3,web,0,0,,,0,no_spend
+u001242,2025-11-30,regular,2,web,2,0,,,0,no_spend
+u001243,2025-08-19,value,2,web,3,1,2025-11-07 09:52:13,2025-11-07 09:52:13,0,high
+u001244,2025-10-14,value,2,web,3,0,,,0,no_spend
+u001245,2025-09-01,value,3,mobile,6,1,2026-01-11 14:28:36,2026-01-11 14:28:36,0,medium
+u001246,2025-12-05,regular,3,web,5,0,,,0,no_spend
+u001247,2025-11-04,regular,3,mobile,1,0,,,0,no_spend
+u001248,2025-06-25,value,3,mobile,7,0,,,0,no_spend
+u001249,2025-11-09,value,2,web,2,0,,,0,no_spend
+u001250,2025-07-29,regular,3,mobile,4,1,2025-12-30 21:55:11,2025-12-30 21:55:11,0,medium
+u001251,2025-11-22,value,3,web,6,0,,,0,no_spend
+u001252,2025-10-20,regular,2,web,4,1,2025-12-27 06:08:49,2025-12-27 06:08:49,0,low
+u001253,2025-09-15,premium,3,mobile,6,0,,,0,no_spend
+u001254,2025-11-16,regular,1,web,3,0,,,0,no_spend
+u001255,2025-12-20,premium,3,mobile,5,0,,,0,no_spend
+u001256,2025-12-03,regular,3,mobile,0,0,,,0,no_spend
+u001257,2025-10-15,regular,1,web,3,0,,,0,no_spend
+u001258,2025-11-22,value,2,mobile,7,2,2025-11-06 07:47:11,2025-11-18 14:26:10,1,high
+u001259,2025-09-18,value,1,web,2,0,,,0,no_spend
+u001260,2025-12-06,regular,3,mobile,1,0,,,0,no_spend
+u001261,2025-12-14,value,3,web,1,0,,,0,no_spend
+u001262,2025-07-22,premium,2,web,4,0,,,0,no_spend
+u001263,2025-08-12,regular,3,web,2,0,,,0,no_spend
+u001264,2025-08-19,premium,1,mobile,6,0,,,0,no_spend
+u001265,2025-07-28,value,2,web,7,0,,,0,no_spend
+u001266,2025-09-13,regular,2,mobile,2,1,2026-01-07 14:09:01,2026-01-07 14:09:01,0,medium
+u001267,2025-08-02,regular,1,web,3,0,,,0,no_spend
+u001268,2025-10-26,value,2,web,4,0,,,0,no_spend
+u001269,2025-07-14,regular,2,web,5,0,,,0,no_spend
+u001270,2025-08-19,regular,2,web,2,0,,,0,no_spend
+u001271,2025-11-10,premium,2,mobile,0,0,,,0,no_spend
+u001272,2025-09-15,regular,3,web,4,0,,,0,no_spend
+u001273,2025-09-19,value,2,mobile,3,0,,,0,no_spend
+u001274,2025-12-08,regular,3,mobile,3,0,,,0,no_spend
+u001275,2026-01-16,regular,2,web,3,0,,,0,no_spend
+u001276,2025-10-20,value,2,mobile,3,1,2025-11-10 05:38:14,2025-11-10 05:38:14,0,medium
+u001277,2025-07-10,regular,2,mobile,1,0,,,0,no_spend
+u001278,2025-07-15,value,2,mobile,4,0,,,0,no_spend
+u001279,2026-01-12,value,2,web,1,0,,,0,no_spend
+u001280,2025-11-13,regular,2,mobile,4,1,2025-12-02 13:27:00,2025-12-02 13:27:00,0,medium
+u001281,2025-11-28,value,1,mobile,4,0,,,0,no_spend
+u001282,2025-11-12,regular,2,web,3,0,,,0,no_spend
+u001283,2025-07-31,value,2,mobile,5,2,2025-11-17 05:17:29,2025-12-10 17:57:43,1,medium
+u001284,2025-09-25,regular,2,web,3,1,2025-11-13 16:50:29,2025-11-13 16:50:29,0,high
+u001285,2025-12-08,value,3,mobile,5,0,,,0,no_spend
+u001286,2025-12-22,premium,2,mobile,1,0,,,0,no_spend
+u001287,2025-08-12,value,3,mobile,1,0,,,0,no_spend
+u001288,2025-10-26,regular,3,mobile,2,0,,,0,no_spend
+u001289,2025-07-26,value,3,mobile,5,0,,,0,no_spend
+u001290,2026-01-10,value,3,mobile,3,0,,,0,no_spend
+u001291,2025-08-15,regular,1,web,3,0,,,0,no_spend
+u001292,2025-11-23,regular,2,web,3,0,,,0,no_spend
+u001293,2025-08-10,premium,1,web,4,0,,,0,no_spend
+u001294,2025-10-30,value,3,web,2,0,,,0,no_spend
+u001295,2025-11-08,value,2,mobile,4,1,2025-12-06 13:19:56,2025-12-06 13:19:56,0,high
+u001296,2025-08-31,regular,2,mobile,1,0,,,0,no_spend
+u001297,2025-12-12,regular,3,web,1,0,,,0,no_spend
+u001298,2025-12-26,value,1,web,5,1,2025-12-29 03:39:24,2025-12-29 03:39:24,0,low
+u001299,2025-12-20,regular,2,mobile,0,0,,,0,no_spend
+u001300,2025-08-31,regular,3,web,3,0,,,0,no_spend
+u001301,2025-11-26,regular,1,mobile,4,0,,,0,no_spend
+u001302,2025-10-18,regular,2,mobile,4,0,,,0,no_spend
+u001303,2025-10-25,regular,3,web,3,0,,,0,no_spend
+u001304,2025-10-01,value,1,web,4,2,2025-11-30 01:39:18,2025-12-25 13:00:52,1,medium
+u001305,2025-10-27,regular,2,web,1,0,,,0,no_spend
+u001306,2025-07-21,value,2,web,0,0,,,0,no_spend
+u001307,2025-09-17,regular,2,web,5,0,,,0,no_spend
+u001308,2025-07-30,regular,1,web,5,0,,,0,no_spend
+u001309,2025-08-21,regular,3,web,4,0,,,0,no_spend
+u001310,2025-07-20,value,3,web,2,0,,,0,no_spend
+u001311,2025-08-07,value,1,web,4,0,,,0,no_spend
+u001312,2025-12-04,regular,2,mobile,4,0,,,0,no_spend
+u001313,2025-10-16,regular,2,web,0,0,,,0,no_spend
+u001314,2025-06-28,premium,3,mobile,6,0,,,0,no_spend
+u001315,2025-12-06,regular,2,web,2,0,,,0,no_spend
+u001316,2025-12-31,premium,1,web,4,0,,,0,no_spend
+u001317,2025-12-25,value,1,web,1,0,,,0,no_spend
+u001318,2025-12-13,regular,3,mobile,5,1,2025-11-06 22:24:34,2025-11-06 22:24:34,0,low
+u001319,2026-01-17,value,2,web,4,0,,,0,no_spend
+u001320,2025-10-24,regular,3,web,3,0,,,0,no_spend
+u001321,2026-01-11,value,2,web,6,0,,,0,no_spend
+u001322,2026-01-08,value,3,mobile,2,0,,,0,no_spend
+u001323,2025-08-28,regular,1,web,2,1,2026-01-06 06:02:05,2026-01-06 06:02:05,0,medium
+u001324,2025-12-21,regular,1,web,4,0,,,0,no_spend
+u001325,2025-12-06,value,3,mobile,4,0,,,0,no_spend
+u001326,2025-12-03,value,3,web,5,0,,,0,no_spend
+u001327,2025-12-28,regular,2,web,4,1,2025-11-21 07:49:07,2025-11-21 07:49:07,0,medium
+u001328,2025-09-12,value,2,mobile,1,0,,,0,no_spend
+u001329,2025-09-15,value,2,web,8,0,,,0,no_spend
+u001330,2025-11-04,regular,2,web,6,1,2025-11-11 20:43:06,2025-11-11 20:43:06,0,medium
+u001331,2025-11-25,value,1,web,7,0,,,0,no_spend
+u001332,2025-12-25,regular,3,web,1,0,,,0,no_spend
+u001333,2025-12-24,regular,2,mobile,4,1,2025-12-10 07:00:50,2025-12-10 07:00:50,0,low
+u001334,2025-11-21,value,3,mobile,4,1,2025-11-11 18:25:16,2025-11-11 18:25:16,0,low
+u001335,2026-01-10,value,1,mobile,11,0,,,0,no_spend
+u001336,2025-07-30,value,1,web,3,0,,,0,no_spend
+u001337,2026-01-09,value,2,mobile,2,0,,,0,no_spend
+u001338,2025-07-06,value,2,mobile,3,0,,,0,no_spend
+u001339,2025-10-18,premium,2,web,2,0,,,0,no_spend
+u001340,2025-07-12,regular,1,mobile,1,0,,,0,no_spend
+u001341,2025-10-20,regular,3,mobile,1,0,,,0,no_spend
+u001342,2025-09-13,regular,3,mobile,6,2,2025-12-18 19:48:27,2025-12-20 11:41:33,1,medium
+u001343,2025-07-10,regular,3,web,4,0,,,0,no_spend
+u001344,2025-11-06,regular,1,web,4,0,,,0,no_spend
+u001345,2025-11-23,value,2,mobile,3,0,,,0,no_spend
+u001346,2025-07-30,value,2,mobile,2,0,,,0,no_spend
+u001347,2025-11-16,value,2,web,5,2,2025-11-04 04:53:51,2025-12-20 08:39:45,1,high
+u001348,2025-07-31,value,2,web,2,0,,,0,no_spend
+u001349,2025-07-22,value,1,mobile,4,1,2025-12-29 22:18:38,2025-12-29 22:18:38,0,medium
+u001350,2025-07-24,premium,2,web,3,1,2025-12-10 22:21:25,2025-12-10 22:21:25,0,high
+u001351,2025-10-27,premium,2,web,5,0,,,0,no_spend
+u001352,2025-12-03,value,2,mobile,3,0,,,0,no_spend
+u001353,2025-10-26,regular,1,web,3,0,,,0,no_spend
+u001354,2025-12-10,regular,2,web,5,0,,,0,no_spend
+u001355,2025-10-25,regular,2,web,2,1,2026-01-05 08:48:13,2026-01-05 08:48:13,0,medium
+u001356,2025-12-07,regular,2,mobile,6,0,,,0,no_spend
+u001357,2026-01-14,value,2,web,2,0,,,0,no_spend
+u001358,2025-09-13,regular,2,mobile,3,0,,,0,no_spend
+u001359,2025-07-24,premium,3,mobile,7,0,,,0,no_spend
+u001360,2025-07-21,regular,2,mobile,2,1,2025-12-29 22:15:01,2025-12-29 22:15:01,0,low
+u001361,2025-10-26,regular,2,web,5,0,,,0,no_spend
+u001362,2025-10-16,regular,3,web,4,0,,,0,no_spend
+u001363,2025-08-01,value,2,web,4,1,2025-11-05 22:05:47,2025-11-05 22:05:47,0,medium
+u001364,2025-12-25,value,3,mobile,1,0,,,0,no_spend
+u001365,2026-01-10,regular,3,mobile,2,0,,,0,no_spend
+u001366,2025-08-15,value,1,mobile,5,0,,,0,no_spend
+u001367,2025-08-05,regular,2,web,4,0,,,0,no_spend
+u001368,2025-08-07,regular,2,web,3,0,,,0,no_spend
+u001369,2025-09-12,regular,3,mobile,2,0,,,0,no_spend
+u001370,2025-12-19,value,2,web,5,0,,,0,no_spend
+u001371,2025-10-26,premium,1,mobile,1,0,,,0,no_spend
+u001372,2025-07-07,value,2,web,7,1,2026-01-11 11:42:46,2026-01-11 11:42:46,0,low
+u001373,2025-09-30,value,1,mobile,7,0,,,0,no_spend
+u001374,2025-07-12,value,3,mobile,5,0,,,0,no_spend
+u001375,2025-09-16,regular,2,web,1,0,,,0,no_spend
+u001376,2025-09-16,premium,3,web,1,0,,,0,no_spend
+u001377,2025-11-06,value,3,mobile,0,0,,,0,no_spend
+u001378,2025-10-16,premium,2,web,1,0,,,0,no_spend
+u001379,2025-12-24,value,2,web,2,1,2026-01-12 07:53:28,2026-01-12 07:53:28,0,high
+u001380,2025-06-26,regular,3,web,3,0,,,0,no_spend
+u001381,2025-12-02,value,3,web,5,0,,,0,no_spend
+u001382,2025-06-28,regular,3,mobile,4,1,2025-12-24 07:54:55,2025-12-24 07:54:55,0,low
+u001383,2025-08-26,regular,1,web,3,0,,,0,no_spend
+u001384,2025-12-25,regular,2,web,4,1,2025-12-19 04:34:28,2025-12-19 04:34:28,0,medium
+u001385,2025-11-15,value,1,mobile,4,0,,,0,no_spend
+u001386,2025-07-29,regular,3,web,3,0,,,0,no_spend
+u001387,2025-10-04,premium,2,web,2,0,,,0,no_spend
+u001388,2025-11-22,regular,2,mobile,8,2,2025-11-03 00:57:22,2025-12-28 10:30:08,1,high
+u001389,2026-01-06,regular,1,mobile,1,0,,,0,no_spend
+u001390,2025-11-03,regular,2,mobile,2,0,,,0,no_spend
+u001391,2025-06-28,value,3,mobile,4,0,,,0,no_spend
+u001392,2025-10-06,premium,1,web,2,0,,,0,no_spend
+u001393,2025-07-25,value,1,web,5,0,,,0,no_spend
+u001394,2025-07-03,regular,3,mobile,4,0,,,0,no_spend
+u001395,2025-10-27,value,3,mobile,3,0,,,0,no_spend
+u001396,2025-12-03,value,1,mobile,2,0,,,0,no_spend
+u001397,2025-07-01,regular,2,web,4,0,,,0,no_spend
+u001398,2025-12-04,regular,3,web,3,0,,,0,no_spend
+u001399,2025-11-18,premium,3,web,2,1,2025-11-15 07:39:59,2025-11-15 07:39:59,0,high
+u001400,2025-11-28,premium,2,mobile,2,0,,,0,no_spend
+u001401,2025-08-13,value,2,mobile,5,0,,,0,no_spend
+u001402,2025-09-14,value,2,web,3,0,,,0,no_spend
+u001403,2025-07-18,regular,1,web,5,0,,,0,no_spend
+u001404,2025-08-12,regular,3,web,8,0,,,0,no_spend
+u001405,2025-08-26,regular,1,web,2,0,,,0,no_spend
+u001406,2025-08-29,premium,1,mobile,3,0,,,0,no_spend
+u001407,2025-07-30,regular,3,mobile,4,1,2026-01-09 20:11:54,2026-01-09 20:11:54,0,low
+u001408,2025-08-02,value,3,web,4,0,,,0,no_spend
+u001409,2025-12-29,regular,3,mobile,4,0,,,0,no_spend
+u001410,2025-12-05,regular,2,mobile,4,1,2026-01-17 00:38:25,2026-01-17 00:38:25,0,low
+u001411,2025-09-03,regular,2,web,5,1,2025-11-22 20:13:23,2025-11-22 20:13:23,0,medium
+u001412,2026-01-08,value,2,web,4,0,,,0,no_spend
+u001413,2025-08-12,regular,2,web,2,0,,,0,no_spend
+u001414,2025-09-16,regular,2,web,3,1,2025-12-15 23:07:16,2025-12-15 23:07:16,0,high
+u001415,2025-12-11,value,2,web,2,0,,,0,no_spend
+u001416,2025-09-24,regular,2,mobile,4,0,,,0,no_spend
+u001417,2025-08-11,value,3,web,4,1,2025-12-06 00:34:26,2025-12-06 00:34:26,0,low
+u001418,2025-09-08,regular,3,web,2,0,,,0,no_spend
+u001419,2025-10-06,regular,1,mobile,3,0,,,0,no_spend
+u001420,2025-10-31,premium,2,web,3,1,2025-10-25 16:29:27,2025-10-25 16:29:27,0,high
+u001421,2025-09-16,value,1,mobile,3,0,,,0,no_spend
+u001422,2025-09-22,value,2,mobile,4,1,2025-12-23 00:49:06,2025-12-23 00:49:06,0,low
+u001423,2025-08-17,value,2,mobile,2,0,,,0,no_spend
+u001424,2025-10-13,regular,1,mobile,4,1,2025-12-09 10:39:30,2025-12-09 10:39:30,0,high
+u001425,2025-08-08,value,3,mobile,4,1,2025-12-23 00:57:09,2025-12-23 00:57:09,0,medium
+u001426,2025-12-22,regular,2,mobile,4,0,,,0,no_spend
+u001427,2025-11-27,value,3,web,4,0,,,0,no_spend
+u001428,2025-09-17,value,1,web,0,0,,,0,no_spend
+u001429,2025-11-27,regular,1,web,3,1,2025-11-07 18:50:34,2025-11-07 18:50:34,0,low
+u001430,2025-06-24,regular,2,web,3,0,,,0,no_spend
+u001431,2025-09-03,premium,1,web,1,0,,,0,no_spend
+u001432,2025-09-23,regular,2,web,0,0,,,0,no_spend
+u001433,2025-09-30,regular,3,web,3,0,,,0,no_spend
+u001434,2025-11-27,regular,1,web,5,0,,,0,no_spend
+u001435,2026-01-11,regular,1,web,3,0,,,0,no_spend
+u001436,2025-09-11,value,2,mobile,3,0,,,0,no_spend
+u001437,2025-09-05,regular,2,mobile,6,0,,,0,no_spend
+u001438,2025-10-29,regular,2,mobile,2,0,,,0,no_spend
+u001439,2025-08-21,value,2,web,3,0,,,0,no_spend
+u001440,2025-07-23,regular,3,mobile,2,0,,,0,no_spend
+u001441,2026-01-11,regular,1,mobile,3,0,,,0,no_spend
+u001442,2025-12-10,regular,2,web,4,0,,,0,no_spend
+u001443,2026-01-10,value,2,mobile,3,1,2025-12-30 00:19:59,2025-12-30 00:19:59,0,high
+u001444,2025-08-08,regular,3,web,2,0,,,0,no_spend
+u001445,2025-06-27,premium,2,mobile,5,1,2025-12-08 22:27:35,2025-12-08 22:27:35,0,high
+u001446,2025-09-23,value,2,mobile,2,0,,,0,no_spend
+u001447,2026-01-05,regular,1,web,3,0,,,0,no_spend
+u001448,2025-07-22,value,1,mobile,5,0,,,0,no_spend
+u001449,2025-07-18,value,1,web,4,0,,,0,no_spend
+u001450,2025-07-07,premium,3,web,4,0,,,0,no_spend
+u001451,2025-12-01,regular,2,web,1,0,,,0,no_spend
+u001452,2025-12-05,regular,3,web,4,1,2025-10-30 18:08:39,2025-10-30 18:08:39,0,low
+u001453,2025-11-16,value,1,web,3,0,,,0,no_spend
+u001454,2025-07-04,premium,3,mobile,3,0,,,0,no_spend
+u001455,2025-11-22,value,3,web,5,1,2025-12-24 03:47:27,2025-12-24 03:47:27,0,low
+u001456,2025-09-25,regular,1,web,2,0,,,0,no_spend
+u001457,2025-07-26,value,1,mobile,2,0,,,0,no_spend
+u001458,2025-08-24,value,1,web,4,0,,,0,no_spend
+u001459,2025-10-06,regular,3,web,4,0,,,0,no_spend
+u001460,2025-08-31,value,1,mobile,6,0,,,0,no_spend
+u001461,2026-01-13,regular,2,mobile,4,0,,,0,no_spend
+u001462,2025-10-01,value,2,web,1,0,,,0,no_spend
+u001463,2025-09-09,regular,3,web,3,0,,,0,no_spend
+u001464,2025-11-11,regular,2,mobile,1,0,,,0,no_spend
+u001465,2025-11-07,regular,2,mobile,4,0,,,0,no_spend
+u001466,2025-06-23,value,3,web,4,0,,,0,no_spend
+u001467,2025-10-31,regular,1,web,6,0,,,0,no_spend
+u001468,2025-08-13,premium,3,web,1,0,,,0,no_spend
+u001469,2025-09-10,value,1,mobile,5,0,,,0,no_spend
+u001470,2025-11-18,value,2,mobile,5,0,,,0,no_spend
+u001471,2025-10-18,regular,3,mobile,1,0,,,0,no_spend
+u001472,2025-09-08,value,2,web,4,0,,,0,no_spend
+u001473,2025-07-28,regular,2,mobile,3,2,2025-11-12 07:53:45,2025-11-14 17:03:32,1,high
+u001474,2025-10-07,regular,2,mobile,4,0,,,0,no_spend
+u001475,2025-08-29,value,2,web,2,0,,,0,no_spend
+u001476,2026-01-01,regular,2,mobile,5,0,,,0,no_spend
+u001477,2025-10-13,regular,2,web,3,0,,,0,no_spend
+u001478,2025-12-22,value,2,web,4,0,,,0,no_spend
+u001479,2025-09-13,premium,2,mobile,4,0,,,0,no_spend
+u001480,2025-12-14,value,2,web,0,0,,,0,no_spend
+u001481,2025-07-05,regular,2,mobile,5,1,2025-11-03 14:13:36,2025-11-03 14:13:36,0,medium
+u001482,2025-08-25,regular,2,web,5,0,,,0,no_spend
+u001483,2025-07-09,value,1,web,3,1,2026-01-09 23:06:50,2026-01-09 23:06:50,0,low
+u001484,2025-06-30,regular,3,web,4,0,,,0,no_spend
+u001485,2026-01-02,value,2,web,2,0,,,0,no_spend
+u001486,2025-11-20,regular,1,web,10,2,2025-12-02 19:06:13,2026-01-11 05:21:46,1,high
+u001487,2025-11-01,value,2,mobile,4,1,2025-12-06 16:18:32,2025-12-06 16:18:32,0,low
+u001488,2025-10-13,regular,3,web,1,0,,,0,no_spend
+u001489,2025-10-21,regular,1,web,3,0,,,0,no_spend
+u001490,2025-11-04,regular,1,mobile,6,1,2025-10-22 13:57:29,2025-10-22 13:57:29,0,low
+u001491,2025-12-14,premium,1,web,3,1,2025-12-14 07:38:04,2025-12-14 07:38:04,0,medium
+u001492,2025-10-26,regular,1,mobile,1,0,,,0,no_spend
+u001493,2025-11-27,regular,3,web,2,0,,,0,no_spend
+u001494,2025-08-21,regular,3,web,5,0,,,0,no_spend
+u001495,2026-01-14,premium,1,mobile,2,2,2025-12-03 13:23:23,2025-12-23 01:43:39,1,high
+u001496,2025-06-30,regular,3,mobile,2,0,,,0,no_spend
+u001497,2025-09-12,premium,1,mobile,4,0,,,0,no_spend
+u001498,2025-12-25,value,2,web,6,2,2025-11-11 16:13:32,2025-11-22 01:43:29,1,low
+u001499,2025-07-31,regular,3,web,2,0,,,0,no_spend
+u001500,2025-07-23,regular,2,mobile,7,0,,,0,no_spend
+u001501,2025-09-08,value,1,mobile,9,1,2025-11-25 05:29:39,2025-11-25 05:29:39,0,high
+u001502,2025-09-21,value,2,mobile,4,0,,,0,no_spend
+u001503,2026-01-05,premium,3,mobile,3,0,,,0,no_spend
+u001504,2025-12-16,regular,2,mobile,5,0,,,0,no_spend
+u001505,2025-09-28,value,1,web,3,0,,,0,no_spend
+u001506,2026-01-13,value,1,mobile,3,0,,,0,no_spend
+u001507,2025-11-05,regular,2,web,4,0,,,0,no_spend
+u001508,2025-12-23,regular,2,web,6,0,,,0,no_spend
+u001509,2025-08-14,premium,3,mobile,1,1,2026-01-04 02:01:45,2026-01-04 02:01:45,0,medium
+u001510,2025-10-04,premium,3,web,7,0,,,0,no_spend
+u001511,2025-06-29,regular,3,web,7,0,,,0,no_spend
+u001512,2025-06-25,regular,3,mobile,4,0,,,0,no_spend
+u001513,2025-11-18,value,1,mobile,6,0,,,0,no_spend
+u001514,2025-07-18,premium,2,web,1,0,,,0,no_spend
+u001515,2025-10-16,value,2,mobile,4,0,,,0,no_spend
+u001516,2025-11-16,value,2,web,2,0,,,0,no_spend
+u001517,2025-06-30,premium,3,mobile,8,0,,,0,no_spend
+u001518,2025-09-25,premium,2,web,1,0,,,0,no_spend
+u001519,2025-11-14,value,3,web,2,0,,,0,no_spend
+u001520,2025-12-27,regular,2,web,3,0,,,0,no_spend
+u001521,2025-08-25,regular,2,web,5,0,,,0,no_spend
+u001522,2026-01-14,value,2,web,3,1,2025-11-25 06:20:43,2025-11-25 06:20:43,0,low
+u001523,2025-12-17,value,1,web,3,1,2025-12-09 04:35:37,2025-12-09 04:35:37,0,medium
+u001524,2025-11-07,value,1,mobile,4,0,,,0,no_spend
+u001525,2025-09-13,regular,2,web,2,0,,,0,no_spend
+u001526,2025-11-19,regular,1,web,7,0,,,0,no_spend
+u001527,2025-12-11,regular,3,mobile,5,1,2025-12-16 16:20:27,2025-12-16 16:20:27,0,low
+u001528,2025-08-26,value,1,mobile,2,0,,,0,no_spend
+u001529,2026-01-17,premium,1,mobile,4,0,,,0,no_spend
+u001530,2025-12-31,regular,3,web,1,1,2026-01-06 19:24:35,2026-01-06 19:24:35,0,high
+u001531,2025-10-03,premium,1,web,4,0,,,0,no_spend
+u001532,2025-11-22,value,3,mobile,6,0,,,0,no_spend
+u001533,2025-10-11,regular,3,mobile,3,2,2025-12-09 03:32:33,2025-12-29 22:49:47,1,high
+u001534,2025-11-30,regular,1,web,5,3,2025-10-29 10:36:16,2025-11-29 02:15:29,1,high
+u001535,2025-12-14,value,2,mobile,2,0,,,0,no_spend
+u001536,2025-06-28,value,2,mobile,7,1,2025-10-30 17:13:45,2025-10-30 17:13:45,0,medium
+u001537,2025-07-10,value,3,mobile,7,0,,,0,no_spend
+u001538,2025-09-02,value,3,web,1,0,,,0,no_spend
+u001539,2026-01-02,regular,3,mobile,2,0,,,0,no_spend
+u001540,2025-09-15,value,2,web,2,0,,,0,no_spend
+u001541,2025-12-26,value,2,mobile,3,1,2025-11-02 13:11:31,2025-11-02 13:11:31,0,medium
+u001542,2025-09-28,regular,2,web,3,0,,,0,no_spend
+u001543,2025-08-23,value,3,web,3,0,,,0,no_spend
+u001544,2025-12-29,value,2,web,2,0,,,0,no_spend
+u001545,2025-10-19,regular,2,mobile,2,0,,,0,no_spend
+u001546,2025-09-07,value,2,mobile,1,1,2025-10-30 23:30:56,2025-10-30 23:30:56,0,high
+u001547,2025-07-02,value,3,mobile,2,0,,,0,no_spend
+u001548,2025-07-16,value,3,mobile,5,0,,,0,no_spend
+u001549,2025-07-22,value,1,mobile,1,0,,,0,no_spend
+u001550,2025-09-08,regular,1,mobile,4,0,,,0,no_spend
+u001551,2025-10-28,value,2,web,2,0,,,0,no_spend
+u001552,2025-08-27,value,2,mobile,2,0,,,0,no_spend
+u001553,2025-07-07,premium,2,web,5,0,,,0,no_spend
+u001554,2025-08-18,premium,1,web,2,0,,,0,no_spend
+u001555,2025-09-17,value,2,web,3,0,,,0,no_spend
+u001556,2026-01-17,value,2,web,2,0,,,0,no_spend
+u001557,2025-09-13,regular,2,mobile,1,0,,,0,no_spend
+u001558,2025-07-12,regular,2,mobile,3,0,,,0,no_spend
+u001559,2025-10-23,regular,3,web,3,0,,,0,no_spend
+u001560,2026-01-02,value,2,mobile,5,0,,,0,no_spend
+u001561,2025-12-05,value,3,web,4,2,2025-10-25 16:49:15,2025-12-13 13:28:37,1,high
+u001562,2025-12-16,regular,2,web,3,0,,,0,no_spend
+u001563,2026-01-04,premium,2,web,4,1,2025-12-25 08:54:28,2025-12-25 08:54:28,0,medium
+u001564,2025-11-04,premium,2,web,2,0,,,0,no_spend
+u001565,2026-01-18,value,1,web,3,0,,,0,no_spend
+u001566,2025-06-30,regular,2,web,6,0,,,0,no_spend
+u001567,2025-12-15,value,2,web,7,2,2025-10-24 04:01:01,2025-11-20 11:06:02,1,high
+u001568,2025-12-20,regular,3,web,1,0,,,0,no_spend
+u001569,2026-01-01,premium,2,mobile,3,2,2025-10-24 15:16:41,2025-11-29 18:28:58,1,high
+u001570,2025-10-01,regular,1,web,2,0,,,0,no_spend
+u001571,2025-12-05,value,2,web,4,0,,,0,no_spend
+u001572,2025-08-03,regular,1,web,1,0,,,0,no_spend
+u001573,2025-10-28,regular,3,web,3,1,2026-01-01 12:13:11,2026-01-01 12:13:11,0,low
+u001574,2025-09-06,regular,3,web,6,0,,,0,no_spend
+u001575,2025-10-26,value,2,web,3,0,,,0,no_spend
+u001576,2025-11-12,premium,2,mobile,3,0,,,0,no_spend
+u001577,2025-09-04,value,2,mobile,3,0,,,0,no_spend
+u001578,2025-08-07,value,2,mobile,2,0,,,0,no_spend
+u001579,2025-08-29,value,3,mobile,1,0,,,0,no_spend
+u001580,2025-11-09,value,3,web,2,0,,,0,no_spend
+u001581,2025-11-12,value,2,web,5,0,,,0,no_spend
+u001582,2025-11-26,regular,2,web,2,0,,,0,no_spend
+u001583,2025-07-20,value,1,web,4,1,2026-01-02 07:07:12,2026-01-02 07:07:12,0,low
+u001584,2025-12-12,value,1,web,3,0,,,0,no_spend
+u001585,2025-11-14,value,1,web,3,0,,,0,no_spend
+u001586,2025-06-29,value,2,mobile,9,0,,,0,no_spend
+u001587,2025-09-01,premium,3,web,9,0,,,0,no_spend
+u001588,2025-09-29,premium,2,web,5,1,2025-12-22 06:38:06,2025-12-22 06:38:06,0,low
+u001589,2025-09-07,value,1,mobile,4,0,,,0,no_spend
+u001590,2025-07-18,regular,1,web,2,0,,,0,no_spend
+u001591,2025-08-05,regular,2,mobile,7,0,,,0,no_spend
+u001592,2025-06-28,premium,3,mobile,1,0,,,0,no_spend
+u001593,2025-07-12,value,2,mobile,6,1,2025-11-26 02:52:30,2025-11-26 02:52:30,0,high
+u001594,2025-08-18,value,3,web,4,0,,,0,no_spend
+u001595,2025-12-12,regular,3,web,5,0,,,0,no_spend
+u001596,2025-10-12,premium,1,mobile,2,0,,,0,no_spend
+u001597,2025-09-20,regular,2,mobile,3,0,,,0,no_spend
+u001598,2025-11-09,regular,3,mobile,5,0,,,0,no_spend
+u001599,2025-10-15,value,2,web,5,0,,,0,no_spend
+u001600,2025-07-21,regular,1,web,1,0,,,0,no_spend
+u001601,2025-08-09,premium,3,web,3,0,,,0,no_spend
+u001602,2025-08-09,regular,3,web,4,0,,,0,no_spend
+u001603,2025-10-27,regular,2,web,3,0,,,0,no_spend
+u001604,2025-09-28,regular,2,mobile,0,0,,,0,no_spend
+u001605,2025-09-12,regular,1,web,6,1,2025-11-30 05:34:23,2025-11-30 05:34:23,0,medium
+u001606,2025-10-18,regular,3,mobile,4,1,2026-01-03 17:32:43,2026-01-03 17:32:43,0,high
+u001607,2026-01-13,regular,2,mobile,2,0,,,0,no_spend
+u001608,2025-08-28,premium,1,web,1,0,,,0,no_spend
+u001609,2025-10-10,regular,2,web,5,0,,,0,no_spend
+u001610,2025-10-02,value,3,mobile,7,2,2025-11-27 01:46:52,2025-12-13 17:23:58,1,high
+u001611,2025-11-20,regular,3,web,0,0,,,0,no_spend
+u001612,2025-11-23,value,2,web,6,0,,,0,no_spend
+u001613,2025-11-23,value,1,mobile,3,0,,,0,no_spend
+u001614,2025-08-04,value,3,mobile,3,0,,,0,no_spend
+u001615,2025-09-25,regular,3,mobile,2,1,2026-01-16 14:21:57,2026-01-16 14:21:57,0,low
+u001616,2025-12-10,value,2,mobile,2,0,,,0,no_spend
+u001617,2025-09-11,value,2,web,0,0,,,0,no_spend
+u001618,2026-01-16,regular,2,mobile,1,0,,,0,no_spend
+u001619,2025-09-08,value,2,mobile,2,0,,,0,no_spend
+u001620,2025-10-05,regular,1,mobile,1,0,,,0,no_spend
+u001621,2025-10-01,premium,1,mobile,2,0,,,0,no_spend
+u001622,2025-09-22,regular,1,mobile,3,0,,,0,no_spend
+u001623,2025-12-18,value,3,mobile,4,0,,,0,no_spend
+u001624,2025-07-26,value,1,web,1,0,,,0,no_spend
+u001625,2025-10-20,regular,1,mobile,3,0,,,0,no_spend
+u001626,2025-10-31,regular,2,web,4,0,,,0,no_spend
+u001627,2025-12-19,value,1,mobile,5,0,,,0,no_spend
+u001628,2025-10-29,regular,1,mobile,4,0,,,0,no_spend
+u001629,2026-01-11,regular,2,mobile,2,0,,,0,no_spend
+u001630,2025-12-23,value,2,web,3,0,,,0,no_spend
+u001631,2025-09-04,regular,2,web,2,0,,,0,no_spend
+u001632,2025-12-21,value,3,web,5,1,2025-12-04 19:04:00,2025-12-04 19:04:00,0,low
+u001633,2026-01-10,value,1,web,3,1,2025-11-21 03:41:44,2025-11-21 03:41:44,0,low
+u001634,2025-08-16,regular,3,web,4,0,,,0,no_spend
+u001635,2025-10-29,value,3,mobile,1,0,,,0,no_spend
+u001636,2025-08-21,regular,3,web,0,0,,,0,no_spend
+u001637,2025-11-06,regular,2,mobile,1,0,,,0,no_spend
+u001638,2025-07-13,value,2,web,6,0,,,0,no_spend
+u001639,2025-11-24,premium,2,mobile,2,1,2025-11-03 19:27:48,2025-11-03 19:27:48,0,low
+u001640,2025-09-19,value,2,mobile,2,1,2026-01-17 01:10:07,2026-01-17 01:10:07,0,low
+u001641,2025-10-24,value,1,mobile,1,1,2025-11-26 17:41:13,2025-11-26 17:41:13,0,low
+u001642,2025-06-28,premium,3,mobile,4,0,,,0,no_spend
+u001643,2025-11-16,regular,2,mobile,1,0,,,0,no_spend
+u001644,2025-10-05,regular,3,mobile,3,0,,,0,no_spend
+u001645,2025-11-01,value,2,mobile,7,0,,,0,no_spend
+u001646,2025-08-28,value,1,web,4,0,,,0,no_spend
+u001647,2025-07-24,regular,2,web,2,0,,,0,no_spend
+u001648,2025-09-22,value,2,mobile,2,1,2025-12-25 04:54:21,2025-12-25 04:54:21,0,medium
+u001649,2026-01-07,value,2,web,2,0,,,0,no_spend
+u001650,2025-08-10,regular,2,web,5,1,2025-11-17 03:22:31,2025-11-17 03:22:31,0,medium
+u001651,2025-11-12,value,1,mobile,3,1,2025-11-19 11:54:05,2025-11-19 11:54:05,0,high
+u001652,2025-07-03,value,2,web,4,0,,,0,no_spend
+u001653,2025-11-21,value,2,mobile,2,0,,,0,no_spend
+u001654,2025-08-12,regular,3,mobile,3,0,,,0,no_spend
+u001655,2025-09-26,regular,1,mobile,4,1,2025-12-20 04:09:58,2025-12-20 04:09:58,0,low
+u001656,2025-09-08,premium,2,mobile,2,0,,,0,no_spend
+u001657,2025-07-17,value,2,mobile,3,0,,,0,no_spend
+u001658,2025-09-04,value,2,mobile,1,0,,,0,no_spend
+u001659,2025-09-04,regular,2,mobile,6,0,,,0,no_spend
+u001660,2025-10-11,regular,2,web,5,0,,,0,no_spend
+u001661,2026-01-13,regular,3,mobile,2,0,,,0,no_spend
+u001662,2025-09-30,premium,2,mobile,5,0,,,0,no_spend
+u001663,2026-01-01,regular,2,web,2,1,2026-01-05 18:04:02,2026-01-05 18:04:02,0,low
+u001664,2025-09-28,regular,1,web,3,0,,,0,no_spend
+u001665,2025-07-16,premium,2,mobile,6,0,,,0,no_spend
+u001666,2025-08-10,value,2,web,2,0,,,0,no_spend
+u001667,2025-09-17,premium,1,mobile,6,2,2025-12-18 02:45:14,2026-01-04 06:37:16,1,high
+u001668,2025-08-30,regular,2,web,5,0,,,0,no_spend
+u001669,2025-12-22,regular,2,web,2,1,2026-01-13 05:19:46,2026-01-13 05:19:46,0,low
+u001670,2025-11-12,premium,3,mobile,4,0,,,0,no_spend
+u001671,2025-10-22,regular,2,web,4,0,,,0,no_spend
+u001672,2025-10-04,regular,2,web,5,0,,,0,no_spend
+u001673,2025-09-14,value,2,mobile,4,0,,,0,no_spend
+u001674,2025-10-30,regular,1,web,3,1,2026-01-01 02:45:33,2026-01-01 02:45:33,0,low
+u001675,2025-07-19,regular,1,web,3,0,,,0,no_spend
+u001676,2025-07-27,value,2,mobile,3,0,,,0,no_spend
+u001677,2025-08-26,regular,3,mobile,5,0,,,0,no_spend
+u001678,2025-07-29,regular,1,mobile,1,0,,,0,no_spend
+u001679,2025-11-12,regular,2,web,3,0,,,0,no_spend
+u001680,2025-06-28,value,3,web,2,0,,,0,no_spend
+u001681,2025-07-27,regular,3,mobile,1,0,,,0,no_spend
+u001682,2025-12-29,value,2,mobile,5,0,,,0,no_spend
+u001683,2026-01-18,value,2,web,6,0,,,0,no_spend
+u001684,2025-10-03,regular,2,mobile,1,0,,,0,no_spend
+u001685,2025-10-05,value,3,web,3,0,,,0,no_spend
+u001686,2025-12-02,value,1,mobile,3,0,,,0,no_spend
+u001687,2025-07-01,regular,3,mobile,3,0,,,0,no_spend
+u001688,2025-09-21,value,1,mobile,4,1,2025-10-28 08:31:07,2025-10-28 08:31:07,0,medium
+u001689,2025-07-14,premium,3,mobile,3,1,2026-01-11 14:50:30,2026-01-11 14:50:30,0,low
+u001690,2025-09-15,premium,1,web,2,0,,,0,no_spend
+u001691,2026-01-16,regular,1,mobile,3,0,,,0,no_spend
+u001692,2025-11-28,premium,1,web,8,1,2025-12-07 04:59:09,2025-12-07 04:59:09,0,high
+u001693,2026-01-16,premium,2,mobile,6,0,,,0,no_spend
+u001694,2025-11-27,value,2,mobile,4,0,,,0,no_spend
+u001695,2025-10-29,regular,1,web,4,0,,,0,no_spend
+u001696,2025-11-28,value,2,web,4,0,,,0,no_spend
+u001697,2025-11-08,regular,2,web,3,0,,,0,no_spend
+u001698,2025-09-28,regular,3,web,2,0,,,0,no_spend
+u001699,2025-08-23,value,3,web,1,0,,,0,no_spend
+u001700,2025-10-10,value,2,mobile,2,1,2025-11-02 19:00:05,2025-11-02 19:00:05,0,high
+u001701,2025-08-16,premium,1,web,6,0,,,0,no_spend
+u001702,2025-10-03,value,2,mobile,3,0,,,0,no_spend
+u001703,2025-07-24,value,3,mobile,3,1,2026-01-04 23:56:23,2026-01-04 23:56:23,0,low
+u001704,2025-10-20,value,1,mobile,3,2,2025-12-08 23:23:56,2025-12-11 10:08:51,1,high
+u001705,2025-08-13,regular,2,web,3,0,,,0,no_spend
+u001706,2025-08-24,regular,3,mobile,2,0,,,0,no_spend
+u001707,2025-10-06,regular,3,mobile,2,0,,,0,no_spend
+u001708,2025-07-27,regular,2,mobile,4,0,,,0,no_spend
+u001709,2026-01-11,value,2,mobile,5,1,2025-12-06 09:33:31,2025-12-06 09:33:31,0,low
+u001710,2025-09-25,value,2,mobile,7,1,2026-01-02 06:31:40,2026-01-02 06:31:40,0,medium
+u001711,2025-09-05,regular,3,web,2,0,,,0,no_spend
+u001712,2025-06-29,regular,1,mobile,4,2,2025-11-07 21:53:11,2026-01-11 19:15:07,1,high
+u001713,2025-12-17,regular,1,web,6,0,,,0,no_spend
+u001714,2025-11-01,regular,2,mobile,3,0,,,0,no_spend
+u001715,2025-09-18,regular,1,web,6,1,2025-12-31 04:43:18,2025-12-31 04:43:18,0,medium
+u001716,2025-08-14,regular,2,web,9,1,2025-11-30 14:56:35,2025-11-30 14:56:35,0,medium
+u001717,2025-11-26,regular,2,web,7,0,,,0,no_spend
+u001718,2026-01-07,regular,3,web,8,0,,,0,no_spend
+u001719,2025-09-11,regular,3,mobile,6,0,,,0,no_spend
+u001720,2025-07-21,regular,2,web,1,0,,,0,no_spend
+u001721,2025-07-16,premium,3,mobile,5,0,,,0,no_spend
+u001722,2025-06-24,regular,2,web,4,0,,,0,no_spend
+u001723,2025-11-26,value,2,mobile,5,0,,,0,no_spend
+u001724,2026-01-15,value,1,web,2,0,,,0,no_spend
+u001725,2026-01-17,regular,3,web,4,0,,,0,no_spend
+u001726,2025-12-05,regular,3,web,6,1,2025-11-02 20:01:46,2025-11-02 20:01:46,0,high
+u001727,2025-07-27,regular,3,mobile,5,0,,,0,no_spend
+u001728,2026-01-14,regular,3,mobile,7,2,2025-12-08 03:37:54,2026-01-11 12:35:11,1,high
+u001729,2025-08-31,value,3,mobile,3,0,,,0,no_spend
+u001730,2025-09-01,regular,1,web,7,1,2026-01-06 10:13:10,2026-01-06 10:13:10,0,medium
+u001731,2025-11-14,regular,3,web,3,0,,,0,no_spend
+u001732,2025-07-03,regular,2,web,4,2,2025-10-26 02:47:25,2025-11-01 07:42:33,1,high
+u001733,2025-12-13,regular,2,web,3,0,,,0,no_spend
+u001734,2026-01-18,value,2,mobile,5,0,,,0,no_spend
+u001735,2025-12-03,regular,2,web,2,0,,,0,no_spend
+u001736,2025-12-04,regular,2,mobile,4,0,,,0,no_spend
+u001737,2025-09-13,premium,1,mobile,2,0,,,0,no_spend
+u001738,2025-07-07,regular,1,web,3,0,,,0,no_spend
+u001739,2025-12-06,value,2,web,3,0,,,0,no_spend
+u001740,2025-10-26,regular,3,web,3,0,,,0,no_spend
+u001741,2025-12-31,regular,2,web,4,0,,,0,no_spend
+u001742,2025-07-17,value,2,web,4,0,,,0,no_spend
+u001743,2025-08-26,regular,2,mobile,2,0,,,0,no_spend
+u001744,2025-09-07,value,2,web,6,1,2025-12-12 07:43:19,2025-12-12 07:43:19,0,low
+u001745,2025-11-13,value,1,mobile,7,2,2025-11-25 13:56:38,2025-12-09 08:49:35,1,high
+u001746,2025-12-05,value,3,mobile,6,1,2026-01-04 08:32:18,2026-01-04 08:32:18,0,medium
+u001747,2026-01-11,value,1,mobile,4,0,,,0,no_spend
+u001748,2025-08-24,premium,3,mobile,4,1,2025-12-08 01:19:24,2025-12-08 01:19:24,0,medium
+u001749,2025-10-05,regular,3,web,2,0,,,0,no_spend
+u001750,2025-06-29,value,2,web,3,2,2025-12-09 10:44:46,2025-12-14 09:49:43,1,medium
+u001751,2025-08-15,regular,3,web,1,0,,,0,no_spend
+u001752,2025-09-09,regular,2,mobile,3,0,,,0,no_spend
+u001753,2025-10-26,value,3,mobile,3,1,2025-12-21 12:37:05,2025-12-21 12:37:05,0,low
+u001754,2025-09-30,value,3,web,1,0,,,0,no_spend
+u001755,2025-09-07,regular,3,web,3,0,,,0,no_spend
+u001756,2025-11-01,value,2,web,2,1,2025-11-20 17:25:44,2025-11-20 17:25:44,0,low
+u001757,2025-12-14,regular,3,web,3,0,,,0,no_spend
+u001758,2025-08-13,value,3,mobile,4,0,,,0,no_spend
+u001759,2025-09-03,regular,2,web,2,0,,,0,no_spend
+u001760,2025-11-18,regular,3,web,2,0,,,0,no_spend
+u001761,2025-12-03,value,3,web,4,1,2026-01-12 22:23:15,2026-01-12 22:23:15,0,medium
+u001762,2025-12-13,value,2,web,2,0,,,0,no_spend
+u001763,2025-08-06,premium,3,web,2,0,,,0,no_spend
+u001764,2025-10-14,regular,2,mobile,2,1,2026-01-02 10:36:36,2026-01-02 10:36:36,0,medium
+u001765,2025-12-29,regular,2,web,4,0,,,0,no_spend
+u001766,2025-09-13,value,1,mobile,2,1,2026-01-06 19:57:45,2026-01-06 19:57:45,0,low
+u001767,2025-09-21,value,1,web,2,0,,,0,no_spend
+u001768,2026-01-16,regular,3,web,5,1,2025-12-08 03:03:03,2025-12-08 03:03:03,0,low
+u001769,2025-07-17,premium,2,web,7,0,,,0,no_spend
+u001770,2025-11-18,value,2,web,2,0,,,0,no_spend
+u001771,2025-12-18,regular,1,web,5,0,,,0,no_spend
+u001772,2025-07-25,regular,2,web,5,0,,,0,no_spend
+u001773,2025-11-20,value,3,mobile,4,0,,,0,no_spend
+u001774,2025-09-30,value,3,mobile,1,0,,,0,no_spend
+u001775,2025-12-19,value,1,mobile,4,0,,,0,no_spend
+u001776,2025-12-31,regular,2,web,4,0,,,0,no_spend
+u001777,2025-12-23,regular,2,mobile,1,0,,,0,no_spend
+u001778,2025-07-06,regular,2,mobile,5,0,,,0,no_spend
+u001779,2025-11-29,value,2,web,6,0,,,0,no_spend
+u001780,2026-01-02,regular,2,web,2,0,,,0,no_spend
+u001781,2025-10-31,regular,2,web,2,1,2025-11-06 21:34:00,2025-11-06 21:34:00,0,high
+u001782,2025-10-27,regular,2,mobile,3,0,,,0,no_spend
+u001783,2025-07-02,regular,2,web,2,0,,,0,no_spend
+u001784,2025-12-20,value,2,web,6,0,,,0,no_spend
+u001785,2025-07-03,regular,3,mobile,4,0,,,0,no_spend
+u001786,2025-08-28,regular,3,web,5,0,,,0,no_spend
+u001787,2026-01-03,regular,2,mobile,5,1,2025-11-10 12:27:48,2025-11-10 12:27:48,0,medium
+u001788,2026-01-08,value,3,mobile,4,0,,,0,no_spend
+u001789,2026-01-17,regular,3,mobile,4,0,,,0,no_spend
+u001790,2025-10-01,regular,1,mobile,2,0,,,0,no_spend
+u001791,2025-07-30,value,2,web,5,0,,,0,no_spend
+u001792,2025-10-03,premium,2,mobile,2,0,,,0,no_spend
+u001793,2025-07-14,regular,3,mobile,5,1,2025-11-01 02:43:33,2025-11-01 02:43:33,0,high
+u001794,2025-12-23,value,1,mobile,10,0,,,0,no_spend
+u001795,2025-10-19,regular,2,web,1,0,,,0,no_spend
+u001796,2025-09-16,regular,2,web,3,1,2025-12-16 05:16:10,2025-12-16 05:16:10,0,low
+u001797,2025-07-10,premium,2,web,3,1,2025-11-03 16:25:51,2025-11-03 16:25:51,0,low
+u001798,2025-09-16,value,3,web,6,0,,,0,no_spend
+u001799,2025-12-22,value,2,mobile,4,0,,,0,no_spend
+u001800,2025-11-18,regular,3,mobile,4,0,,,0,no_spend
+u001801,2025-07-10,value,3,mobile,2,0,,,0,no_spend
+u001802,2025-07-27,regular,3,mobile,4,0,,,0,no_spend
+u001803,2025-09-13,regular,1,web,4,1,2026-01-16 13:01:37,2026-01-16 13:01:37,0,medium
+u001804,2025-07-14,value,3,web,6,0,,,0,no_spend
+u001805,2026-01-05,regular,1,web,2,0,,,0,no_spend
+u001806,2025-11-07,premium,2,web,2,0,,,0,no_spend
+u001807,2025-07-13,regular,3,web,3,0,,,0,no_spend
+u001808,2025-12-05,regular,2,web,2,0,,,0,no_spend
+u001809,2025-09-08,value,2,web,3,0,,,0,no_spend
+u001810,2025-08-13,value,2,mobile,8,0,,,0,no_spend
+u001811,2025-10-21,premium,3,web,1,0,,,0,no_spend
+u001812,2025-06-26,regular,3,web,4,0,,,0,no_spend
+u001813,2025-09-29,regular,2,web,1,0,,,0,no_spend
+u001814,2025-12-17,premium,3,mobile,4,0,,,0,no_spend
+u001815,2026-01-04,value,1,mobile,0,0,,,0,no_spend
+u001816,2025-09-03,regular,1,web,1,0,,,0,no_spend
+u001817,2025-11-05,value,2,web,1,0,,,0,no_spend
+u001818,2025-08-10,value,3,mobile,4,0,,,0,no_spend
+u001819,2025-10-19,regular,1,mobile,9,2,2025-10-30 02:30:23,2025-11-19 03:39:43,1,high
+u001820,2025-08-15,regular,1,mobile,4,1,2026-01-04 05:53:32,2026-01-04 05:53:32,0,low
+u001821,2025-10-21,premium,1,web,4,1,2026-01-05 22:44:47,2026-01-05 22:44:47,0,medium
+u001822,2025-07-29,value,3,mobile,3,0,,,0,no_spend
+u001823,2026-01-07,regular,1,mobile,4,0,,,0,no_spend
+u001824,2025-12-26,regular,2,web,4,0,,,0,no_spend
+u001825,2025-09-02,regular,3,mobile,4,0,,,0,no_spend
+u001826,2025-12-03,premium,1,web,2,1,2025-11-11 10:20:17,2025-11-11 10:20:17,0,low
+u001827,2025-07-13,regular,2,mobile,4,2,2025-11-16 19:05:10,2025-11-28 03:24:09,1,medium
+u001828,2025-11-25,regular,2,web,3,1,2025-12-09 23:01:46,2025-12-09 23:01:46,0,low
+u001829,2025-08-21,value,3,web,5,1,2025-12-21 10:16:02,2025-12-21 10:16:02,0,low
+u001830,2025-07-21,value,2,mobile,4,0,,,0,no_spend
+u001831,2025-11-12,premium,2,mobile,6,1,2025-11-28 16:50:19,2025-11-28 16:50:19,0,medium
+u001832,2025-09-30,regular,1,web,4,0,,,0,no_spend
+u001833,2025-10-12,value,3,mobile,1,0,,,0,no_spend
+u001834,2025-10-10,value,3,web,6,1,2026-01-10 02:16:28,2026-01-10 02:16:28,0,low
+u001835,2025-07-05,regular,1,web,2,0,,,0,no_spend
+u001836,2025-07-04,regular,2,mobile,5,1,2025-11-05 10:04:33,2025-11-05 10:04:33,0,low
+u001837,2025-10-27,value,3,web,3,0,,,0,no_spend
+u001838,2025-11-01,regular,1,web,3,0,,,0,no_spend
+u001839,2025-07-03,regular,2,mobile,4,1,2026-01-15 18:30:14,2026-01-15 18:30:14,0,low
+u001840,2025-09-10,regular,2,web,6,1,2026-01-12 07:21:30,2026-01-12 07:21:30,0,high
+u001841,2025-10-30,value,2,web,7,1,2025-11-14 07:37:37,2025-11-14 07:37:37,0,low
+u001842,2025-11-08,regular,2,web,6,0,,,0,no_spend
+u001843,2025-12-14,value,2,mobile,5,0,,,0,no_spend
+u001844,2025-09-19,regular,1,web,4,0,,,0,no_spend
+u001845,2025-10-16,regular,2,web,4,0,,,0,no_spend
+u001846,2025-10-22,regular,3,mobile,4,0,,,0,no_spend
+u001847,2025-08-27,value,2,web,5,0,,,0,no_spend
+u001848,2025-07-04,premium,1,web,3,0,,,0,no_spend
+u001849,2025-06-24,value,3,mobile,5,0,,,0,no_spend
+u001850,2025-12-16,regular,1,mobile,7,0,,,0,no_spend
+u001851,2025-08-04,premium,3,web,4,1,2025-10-30 01:24:17,2025-10-30 01:24:17,0,medium
+u001852,2025-11-02,regular,2,mobile,3,0,,,0,no_spend
+u001853,2025-10-22,regular,3,mobile,4,0,,,0,no_spend
+u001854,2025-09-15,regular,1,web,3,1,2025-10-23 13:39:28,2025-10-23 13:39:28,0,low
+u001855,2025-12-15,regular,1,mobile,2,0,,,0,no_spend
+u001856,2025-11-17,regular,2,mobile,5,1,2025-11-13 08:29:26,2025-11-13 08:29:26,0,low
+u001857,2025-06-28,regular,1,mobile,5,1,2025-10-29 07:31:15,2025-10-29 07:31:15,0,low
+u001858,2025-12-03,value,1,mobile,4,1,2025-11-08 21:15:10,2025-11-08 21:15:10,0,low
+u001859,2025-10-07,regular,3,mobile,8,0,,,0,no_spend
+u001860,2025-09-04,value,3,mobile,2,0,,,0,no_spend
+u001861,2025-11-23,premium,1,mobile,4,1,2025-12-03 13:50:13,2025-12-03 13:50:13,0,low
+u001862,2025-11-14,value,3,mobile,5,0,,,0,no_spend
+u001863,2025-08-27,value,3,mobile,6,1,2025-11-27 14:18:00,2025-11-27 14:18:00,0,low
+u001864,2026-01-15,premium,3,mobile,8,0,,,0,no_spend
+u001865,2025-11-06,value,2,mobile,4,1,2025-12-21 20:45:14,2025-12-21 20:45:14,0,low
+u001866,2025-10-28,regular,2,web,1,0,,,0,no_spend
+u001867,2025-07-08,regular,2,web,4,0,,,0,no_spend
+u001868,2025-08-21,value,2,mobile,1,0,,,0,no_spend
+u001869,2025-09-25,value,3,web,5,0,,,0,no_spend
+u001870,2025-11-02,regular,1,mobile,4,1,2025-12-03 02:50:50,2025-12-03 02:50:50,0,low
+u001871,2025-10-09,value,2,mobile,3,0,,,0,no_spend
+u001872,2025-11-30,value,1,mobile,1,0,,,0,no_spend
+u001873,2025-08-17,value,3,web,5,0,,,0,no_spend
+u001874,2025-11-17,regular,2,mobile,0,0,,,0,no_spend
+u001875,2025-12-11,value,2,web,4,0,,,0,no_spend
+u001876,2025-12-01,value,3,web,9,0,,,0,no_spend
+u001877,2025-12-02,regular,3,web,4,1,2026-01-12 07:29:11,2026-01-12 07:29:11,0,medium
+u001878,2025-12-27,regular,1,web,3,0,,,0,no_spend
+u001879,2025-07-11,value,3,web,3,0,,,0,no_spend
+u001880,2025-11-16,value,3,mobile,3,0,,,0,no_spend
+u001881,2026-01-12,premium,1,mobile,1,0,,,0,no_spend
+u001882,2025-10-21,regular,3,web,2,0,,,0,no_spend
+u001883,2025-08-08,regular,2,web,7,3,2025-12-14 04:15:17,2026-01-16 17:06:42,1,high
+u001884,2026-01-19,regular,2,web,3,0,,,0,no_spend
+u001885,2025-07-30,value,2,mobile,3,0,,,0,no_spend
+u001886,2025-09-01,regular,2,mobile,2,0,,,0,no_spend
+u001887,2025-07-29,premium,1,web,3,0,,,0,no_spend
+u001888,2025-09-28,premium,1,web,5,1,2025-11-22 18:55:38,2025-11-22 18:55:38,0,low
+u001889,2025-09-19,value,1,web,7,0,,,0,no_spend
+u001890,2025-10-04,value,2,mobile,4,0,,,0,no_spend
+u001891,2026-01-04,value,2,web,3,0,,,0,no_spend
+u001892,2025-10-01,value,1,web,4,0,,,0,no_spend
+u001893,2025-10-09,value,2,web,4,1,2025-12-16 06:21:15,2025-12-16 06:21:15,0,medium
+u001894,2025-12-26,regular,2,web,1,0,,,0,no_spend
+u001895,2025-12-12,value,2,web,1,0,,,0,no_spend
+u001896,2025-08-12,premium,3,web,6,1,2025-12-09 11:00:54,2025-12-09 11:00:54,0,low
+u001897,2025-06-26,value,2,mobile,3,0,,,0,no_spend
+u001898,2025-11-02,value,3,web,3,0,,,0,no_spend
+u001899,2025-12-17,premium,1,web,6,0,,,0,no_spend
+u001900,2025-10-17,regular,3,mobile,5,0,,,0,no_spend
+u001901,2025-08-06,regular,3,web,4,0,,,0,no_spend
+u001902,2025-11-26,regular,3,mobile,5,1,2025-11-28 14:29:05,2025-11-28 14:29:05,0,medium
+u001903,2025-11-11,value,2,mobile,3,0,,,0,no_spend
+u001904,2025-10-20,value,2,web,2,0,,,0,no_spend
+u001905,2025-12-21,regular,2,mobile,4,0,,,0,no_spend
+u001906,2025-12-05,regular,2,mobile,5,0,,,0,no_spend
+u001907,2025-11-10,regular,3,mobile,3,0,,,0,no_spend
+u001908,2025-11-10,value,3,web,4,0,,,0,no_spend
+u001909,2025-11-09,regular,2,web,4,1,2025-12-25 07:13:01,2025-12-25 07:13:01,0,medium
+u001910,2025-10-11,regular,1,web,6,0,,,0,no_spend
+u001911,2025-09-28,value,2,mobile,0,0,,,0,no_spend
+u001912,2025-11-19,value,1,mobile,5,0,,,0,no_spend
+u001913,2025-10-29,regular,1,web,2,0,,,0,no_spend
+u001914,2025-10-04,regular,2,web,1,0,,,0,no_spend
+u001915,2025-07-20,regular,3,web,5,0,,,0,no_spend
+u001916,2025-11-17,regular,1,web,4,0,,,0,no_spend
+u001917,2025-11-06,regular,1,mobile,4,1,2026-01-07 14:18:11,2026-01-07 14:18:11,0,high
+u001918,2025-09-03,value,1,web,3,1,2025-12-19 01:01:33,2025-12-19 01:01:33,0,high
+u001919,2025-09-06,regular,3,mobile,1,1,2025-12-29 08:06:50,2025-12-29 08:06:50,0,high
+u001920,2025-08-14,value,2,mobile,6,0,,,0,no_spend
+u001921,2026-01-11,regular,1,mobile,1,0,,,0,no_spend
+u001922,2025-12-21,value,1,mobile,7,1,2026-01-09 19:08:10,2026-01-09 19:08:10,0,low
+u001923,2025-10-19,value,2,web,2,0,,,0,no_spend
+u001924,2025-09-15,regular,2,mobile,1,0,,,0,no_spend
+u001925,2025-11-25,regular,2,mobile,3,0,,,0,no_spend
+u001926,2025-10-12,regular,2,web,3,1,2025-11-26 16:28:17,2025-11-26 16:28:17,0,low
+u001927,2026-01-14,regular,3,web,4,1,2025-11-28 22:30:51,2025-11-28 22:30:51,0,low
+u001928,2025-07-05,premium,2,web,2,0,,,0,no_spend
+u001929,2025-06-30,regular,2,web,0,0,,,0,no_spend
+u001930,2025-10-20,premium,1,web,3,0,,,0,no_spend
+u001931,2025-08-05,regular,3,web,5,1,2025-12-24 22:01:04,2025-12-24 22:01:04,0,low
+u001932,2025-10-28,regular,3,mobile,4,0,,,0,no_spend
+u001933,2025-12-04,regular,3,web,8,1,2025-12-27 13:50:44,2025-12-27 13:50:44,0,low
+u001934,2025-07-22,regular,2,web,6,0,,,0,no_spend
+u001935,2025-09-23,value,1,web,5,1,2025-10-27 17:31:59,2025-10-27 17:31:59,0,low
+u001936,2025-11-15,regular,3,web,7,1,2025-10-22 17:41:11,2025-10-22 17:41:11,0,low
+u001937,2025-12-15,value,3,mobile,6,1,2025-12-11 05:38:04,2025-12-11 05:38:04,0,low
+u001938,2025-10-05,value,1,web,6,2,2025-11-08 00:51:47,2025-12-21 01:33:37,1,high
+u001939,2025-08-05,premium,2,web,2,0,,,0,no_spend
+u001940,2025-10-24,value,2,web,3,0,,,0,no_spend
+u001941,2025-09-26,regular,3,web,3,1,2025-11-17 12:20:18,2025-11-17 12:20:18,0,medium
+u001942,2025-12-02,regular,2,mobile,1,0,,,0,no_spend
+u001943,2025-10-18,value,2,mobile,1,0,,,0,no_spend
+u001944,2025-08-21,premium,2,web,1,0,,,0,no_spend
+u001945,2025-11-28,value,2,mobile,4,0,,,0,no_spend
+u001946,2025-10-10,premium,2,web,2,2,2025-11-15 14:20:53,2026-01-09 19:28:25,1,high
+u001947,2025-07-30,regular,1,mobile,5,0,,,0,no_spend
+u001948,2025-10-19,value,3,mobile,3,0,,,0,no_spend
+u001949,2026-01-08,value,2,web,5,0,,,0,no_spend
+u001950,2025-11-18,value,2,mobile,2,0,,,0,no_spend
+u001951,2025-08-25,regular,1,mobile,1,0,,,0,no_spend
+u001952,2025-11-19,value,1,web,3,2,2025-10-28 09:46:38,2025-11-09 14:41:43,1,high
+u001953,2025-08-21,premium,2,mobile,6,1,2025-12-24 07:02:29,2025-12-24 07:02:29,0,high
+u001954,2025-10-15,value,1,mobile,3,0,,,0,no_spend
+u001955,2025-10-12,regular,1,web,2,1,2025-12-09 11:25:16,2025-12-09 11:25:16,0,medium
+u001956,2025-08-14,value,3,mobile,5,0,,,0,no_spend
+u001957,2025-09-04,premium,2,mobile,2,0,,,0,no_spend
+u001958,2026-01-07,value,2,web,1,0,,,0,no_spend
+u001959,2025-08-15,regular,2,web,2,0,,,0,no_spend
+u001960,2025-12-08,regular,3,mobile,3,0,,,0,no_spend
+u001961,2025-11-10,value,2,mobile,2,0,,,0,no_spend
+u001962,2025-10-13,regular,3,web,5,2,2025-11-16 13:35:33,2026-01-05 00:30:27,1,high
+u001963,2025-07-22,value,3,web,2,0,,,0,no_spend
+u001964,2025-08-05,regular,2,web,5,0,,,0,no_spend
+u001965,2025-07-31,regular,2,mobile,0,0,,,0,no_spend
+u001966,2025-10-24,regular,3,mobile,5,0,,,0,no_spend
+u001967,2026-01-13,value,2,web,3,0,,,0,no_spend
+u001968,2025-12-24,value,2,mobile,2,0,,,0,no_spend
+u001969,2025-06-28,value,2,mobile,2,0,,,0,no_spend
+u001970,2025-08-19,value,2,web,4,1,2025-11-27 06:33:11,2025-11-27 06:33:11,0,high
+u001971,2025-07-26,value,1,web,6,0,,,0,no_spend
+u001972,2026-01-14,premium,2,mobile,4,0,,,0,no_spend
+u001973,2025-08-11,regular,1,web,3,1,2025-12-06 11:26:44,2025-12-06 11:26:44,0,medium
+u001974,2025-08-04,regular,2,web,5,1,2025-11-14 07:34:30,2025-11-14 07:34:30,0,high
+u001975,2025-10-31,regular,2,mobile,4,0,,,0,no_spend
+u001976,2025-10-18,value,3,mobile,2,0,,,0,no_spend
+u001977,2025-08-09,regular,1,web,2,0,,,0,no_spend
+u001978,2025-11-11,value,2,mobile,3,0,,,0,no_spend
+u001979,2025-07-13,value,2,mobile,5,0,,,0,no_spend
+u001980,2025-06-27,regular,1,web,0,0,,,0,no_spend
+u001981,2025-07-10,regular,1,web,4,0,,,0,no_spend
+u001982,2025-09-08,premium,1,mobile,2,0,,,0,no_spend
+u001983,2026-01-14,value,1,mobile,2,0,,,0,no_spend
+u001984,2025-10-16,regular,2,web,4,0,,,0,no_spend
+u001985,2025-11-28,value,2,mobile,5,1,2026-01-01 11:04:40,2026-01-01 11:04:40,0,medium
+u001986,2025-08-29,value,2,mobile,1,0,,,0,no_spend
+u001987,2025-11-21,regular,1,mobile,3,0,,,0,no_spend
+u001988,2026-01-12,value,1,mobile,5,0,,,0,no_spend
+u001989,2025-09-06,regular,1,web,3,0,,,0,no_spend
+u001990,2026-01-19,regular,2,web,1,0,,,0,no_spend
+u001991,2025-11-04,value,2,web,3,0,,,0,no_spend
+u001992,2025-11-27,premium,2,mobile,5,0,,,0,no_spend
+u001993,2025-08-15,regular,1,mobile,2,0,,,0,no_spend
+u001994,2025-11-05,regular,1,mobile,3,0,,,0,no_spend
+u001995,2025-10-08,regular,3,web,3,1,2026-01-14 12:05:30,2026-01-14 12:05:30,0,medium
+u001996,2026-01-10,premium,1,mobile,6,1,2026-01-19 09:08:01,2026-01-19 09:08:01,0,low
+u001997,2025-12-30,value,1,web,3,0,,,0,no_spend
+u001998,2025-09-14,regular,1,web,2,0,,,0,no_spend
+u001999,2026-01-08,regular,3,web,2,0,,,0,no_spend
+u002000,2025-12-26,value,2,mobile,5,1,2025-11-14 05:44:12,2025-11-14 05:44:12,0,high
+u002001,2025-10-25,regular,2,web,5,0,,,0,no_spend
+u002002,2025-07-10,premium,3,mobile,0,0,,,0,no_spend
+u002003,2025-07-27,regular,1,mobile,1,0,,,0,no_spend
+u002004,2025-07-09,regular,3,mobile,2,0,,,0,no_spend
+u002005,2025-07-16,regular,1,web,2,1,2025-11-20 02:19:58,2025-11-20 02:19:58,0,high
+u002006,2026-01-14,regular,2,mobile,3,1,2025-10-23 17:54:15,2025-10-23 17:54:15,0,low
+u002007,2025-08-06,premium,2,mobile,3,0,,,0,no_spend
+u002008,2025-11-15,regular,2,web,2,0,,,0,no_spend
+u002009,2025-11-04,value,3,mobile,3,0,,,0,no_spend
+u002010,2025-11-02,value,1,mobile,0,0,,,0,no_spend
+u002011,2025-08-05,regular,3,web,6,1,2025-12-20 16:52:29,2025-12-20 16:52:29,0,medium
+u002012,2025-10-23,regular,2,web,2,0,,,0,no_spend
+u002013,2025-11-01,regular,2,web,1,0,,,0,no_spend
+u002014,2025-10-21,value,3,web,1,0,,,0,no_spend
+u002015,2025-08-01,value,1,mobile,2,0,,,0,no_spend
+u002016,2025-11-22,regular,3,web,2,0,,,0,no_spend
+u002017,2025-07-08,regular,2,web,4,0,,,0,no_spend
+u002018,2025-10-25,value,3,web,4,1,2025-10-26 12:56:45,2025-10-26 12:56:45,0,medium
+u002019,2025-09-23,regular,1,web,2,0,,,0,no_spend
+u002020,2025-08-15,regular,2,web,5,0,,,0,no_spend
+u002021,2025-12-09,premium,2,mobile,2,0,,,0,no_spend
+u002022,2025-07-30,value,2,web,3,0,,,0,no_spend
+u002023,2026-01-05,premium,1,web,3,1,2025-10-21 18:48:03,2025-10-21 18:48:03,0,high
+u002024,2025-12-26,regular,1,mobile,5,1,2025-11-22 13:36:37,2025-11-22 13:36:37,0,low
+u002025,2025-09-07,regular,3,mobile,3,0,,,0,no_spend
+u002026,2025-08-26,value,1,web,4,0,,,0,no_spend
+u002027,2025-07-22,regular,3,web,6,1,2025-12-14 22:28:17,2025-12-14 22:28:17,0,high
+u002028,2026-01-01,regular,3,web,7,1,2026-01-16 21:31:59,2026-01-16 21:31:59,0,high
+u002029,2025-11-02,value,1,web,3,0,,,0,no_spend
+u002030,2025-06-30,regular,1,web,1,0,,,0,no_spend
+u002031,2025-10-08,regular,2,mobile,1,0,,,0,no_spend
+u002032,2025-07-11,regular,1,mobile,4,1,2025-11-01 02:02:38,2025-11-01 02:02:38,0,high
+u002033,2025-10-21,value,2,web,2,0,,,0,no_spend
+u002034,2025-10-08,regular,2,mobile,6,0,,,0,no_spend
+u002035,2025-07-10,value,2,web,2,0,,,0,no_spend
+u002036,2025-12-11,premium,2,web,3,2,2025-12-21 08:44:45,2025-12-24 07:55:09,1,high
+u002037,2025-08-17,premium,2,web,2,0,,,0,no_spend
+u002038,2025-10-15,value,2,web,3,0,,,0,no_spend
+u002039,2025-11-04,value,1,mobile,2,0,,,0,no_spend
+u002040,2026-01-11,value,2,web,3,0,,,0,no_spend
+u002041,2025-10-05,regular,3,mobile,4,0,,,0,no_spend
+u002042,2026-01-02,premium,2,web,2,0,,,0,no_spend
+u002043,2025-09-05,regular,2,mobile,5,0,,,0,no_spend
+u002044,2025-12-20,value,2,mobile,4,0,,,0,no_spend
+u002045,2025-08-11,value,1,web,4,1,2026-01-14 09:20:30,2026-01-14 09:20:30,0,high
+u002046,2025-11-19,value,1,web,2,1,2025-11-29 16:00:35,2025-11-29 16:00:35,0,high
+u002047,2025-07-12,regular,1,mobile,2,1,2026-01-08 15:30:55,2026-01-08 15:30:55,0,high
+u002048,2026-01-16,regular,3,web,2,1,2025-11-26 07:37:38,2025-11-26 07:37:38,0,low
+u002049,2026-01-09,regular,1,web,3,0,,,0,no_spend
+u002050,2025-09-24,value,3,mobile,5,1,2026-01-12 21:19:20,2026-01-12 21:19:20,0,medium
+u002051,2025-10-11,premium,1,web,2,0,,,0,no_spend
+u002052,2025-10-26,value,2,web,4,0,,,0,no_spend
+u002053,2025-08-20,regular,2,web,3,0,,,0,no_spend
+u002054,2025-11-12,premium,2,web,2,0,,,0,no_spend
+u002055,2025-11-17,regular,3,web,4,0,,,0,no_spend
+u002056,2025-10-11,premium,3,web,1,0,,,0,no_spend
+u002057,2025-07-24,value,3,web,5,0,,,0,no_spend
+u002058,2026-01-02,regular,1,web,4,2,2025-11-02 09:51:30,2025-12-14 08:53:35,1,medium
+u002059,2025-07-17,value,3,web,1,0,,,0,no_spend
+u002060,2025-11-02,regular,1,mobile,2,0,,,0,no_spend
+u002061,2025-07-15,value,3,mobile,4,0,,,0,no_spend
+u002062,2025-07-24,value,2,web,3,0,,,0,no_spend
+u002063,2025-06-27,value,2,web,5,1,2025-12-30 04:02:03,2025-12-30 04:02:03,0,high
+u002064,2025-09-07,value,1,mobile,1,0,,,0,no_spend
+u002065,2025-11-04,regular,1,web,3,0,,,0,no_spend
+u002066,2025-10-10,regular,1,web,3,0,,,0,no_spend
+u002067,2025-11-12,value,3,mobile,2,0,,,0,no_spend
+u002068,2025-11-12,premium,3,web,2,0,,,0,no_spend
+u002069,2025-07-22,premium,3,mobile,7,0,,,0,no_spend
+u002070,2025-07-05,value,1,mobile,2,1,2025-10-23 20:29:14,2025-10-23 20:29:14,0,low
+u002071,2025-11-01,regular,2,mobile,3,0,,,0,no_spend
+u002072,2025-11-07,regular,2,web,2,0,,,0,no_spend
+u002073,2025-10-18,regular,2,web,3,0,,,0,no_spend
+u002074,2025-08-14,regular,2,web,5,0,,,0,no_spend
+u002075,2025-12-10,regular,2,mobile,6,1,2025-11-17 08:51:17,2025-11-17 08:51:17,0,high
+u002076,2025-07-09,value,2,mobile,1,0,,,0,no_spend
+u002077,2025-11-03,value,1,mobile,4,2,2025-10-24 15:35:28,2025-11-18 20:27:51,1,high
+u002078,2025-07-18,regular,2,web,1,0,,,0,no_spend
+u002079,2025-11-07,regular,2,mobile,3,1,2025-12-19 08:17:30,2025-12-19 08:17:30,0,medium
+u002080,2025-09-19,regular,1,web,3,1,2025-11-18 08:23:03,2025-11-18 08:23:03,0,low
+u002081,2025-11-21,value,3,mobile,4,0,,,0,no_spend
+u002082,2025-07-04,value,2,web,5,0,,,0,no_spend
+u002083,2025-10-18,value,3,web,3,1,2026-01-12 20:14:34,2026-01-12 20:14:34,0,low
+u002084,2025-07-23,value,2,web,2,0,,,0,no_spend
+u002085,2025-11-13,value,3,mobile,2,0,,,0,no_spend
+u002086,2025-07-18,regular,3,web,3,0,,,0,no_spend
+u002087,2025-07-08,regular,3,web,6,2,2025-10-29 10:37:14,2025-11-28 10:36:07,1,medium
+u002088,2025-11-20,regular,2,web,1,0,,,0,no_spend
+u002089,2025-07-06,regular,2,web,4,0,,,0,no_spend
+u002090,2025-08-09,value,1,mobile,8,0,,,0,no_spend
+u002091,2025-12-13,regular,2,web,0,0,,,0,no_spend
+u002092,2025-12-10,value,1,web,3,0,,,0,no_spend
+u002093,2025-12-19,premium,1,mobile,2,0,,,0,no_spend
+u002094,2025-08-30,value,1,web,4,0,,,0,no_spend
+u002095,2025-10-12,regular,2,web,3,1,2026-01-09 09:12:02,2026-01-09 09:12:02,0,medium
+u002096,2025-12-02,premium,1,web,5,0,,,0,no_spend
+u002097,2025-07-22,regular,2,web,5,0,,,0,no_spend
+u002098,2025-11-22,regular,3,web,3,0,,,0,no_spend
+u002099,2025-07-13,regular,3,web,3,1,2025-11-22 22:55:02,2025-11-22 22:55:02,0,medium
+u002100,2026-01-01,value,2,web,4,0,,,0,no_spend
+u002101,2025-11-04,regular,2,mobile,2,0,,,0,no_spend
+u002102,2025-10-05,premium,2,mobile,0,0,,,0,no_spend
+u002103,2025-10-03,premium,2,mobile,8,1,2025-12-31 10:44:44,2025-12-31 10:44:44,0,high
+u002104,2025-07-31,regular,2,web,5,0,,,0,no_spend
+u002105,2025-09-04,value,1,web,4,0,,,0,no_spend
+u002106,2025-11-23,regular,3,mobile,3,0,,,0,no_spend
+u002107,2025-10-15,regular,1,mobile,2,0,,,0,no_spend
+u002108,2025-10-12,value,3,web,3,0,,,0,no_spend
+u002109,2025-08-03,value,2,web,2,0,,,0,no_spend
+u002110,2025-11-15,value,1,web,4,0,,,0,no_spend
+u002111,2025-09-13,regular,3,web,4,0,,,0,no_spend
+u002112,2025-07-31,value,1,web,1,0,,,0,no_spend
+u002113,2026-01-07,value,3,web,6,3,2025-10-27 00:07:57,2026-01-14 19:42:04,1,high
+u002114,2025-10-07,value,2,mobile,3,0,,,0,no_spend
+u002115,2025-10-12,premium,1,mobile,4,0,,,0,no_spend
+u002116,2026-01-15,value,1,mobile,4,0,,,0,no_spend
+u002117,2025-09-08,value,3,web,2,0,,,0,no_spend
+u002118,2026-01-07,regular,2,mobile,3,0,,,0,no_spend
+u002119,2025-11-16,value,3,mobile,2,0,,,0,no_spend
+u002120,2025-11-03,premium,3,web,6,3,2025-12-12 08:27:41,2026-01-06 21:33:04,1,high
+u002121,2025-08-11,premium,2,mobile,5,0,,,0,no_spend
+u002122,2025-07-04,regular,2,mobile,2,0,,,0,no_spend
+u002123,2025-09-23,regular,3,mobile,4,0,,,0,no_spend
+u002124,2025-06-25,regular,3,web,1,0,,,0,no_spend
+u002125,2025-07-08,value,1,mobile,6,0,,,0,no_spend
+u002126,2025-10-26,value,2,web,5,0,,,0,no_spend
+u002127,2025-11-22,value,1,web,3,0,,,0,no_spend
+u002128,2025-07-28,value,2,web,5,1,2025-12-17 21:46:51,2025-12-17 21:46:51,0,medium
+u002129,2025-11-24,regular,3,web,5,0,,,0,no_spend
+u002130,2026-01-08,value,2,web,6,0,,,0,no_spend
+u002131,2025-11-26,value,2,web,3,0,,,0,no_spend
+u002132,2025-12-05,regular,2,mobile,2,0,,,0,no_spend
+u002133,2025-11-17,regular,1,web,2,0,,,0,no_spend
+u002134,2025-08-09,value,2,mobile,5,1,2025-12-13 18:59:12,2025-12-13 18:59:12,0,medium
+u002135,2025-09-07,value,3,web,4,0,,,0,no_spend
+u002136,2026-01-08,value,2,mobile,3,0,,,0,no_spend
+u002137,2025-11-09,value,2,mobile,2,0,,,0,no_spend
+u002138,2025-12-06,regular,3,mobile,7,1,2025-10-28 06:31:00,2025-10-28 06:31:00,0,low
+u002139,2026-01-12,premium,1,mobile,2,1,2025-12-23 15:40:44,2025-12-23 15:40:44,0,medium
+u002140,2025-08-11,regular,2,mobile,4,0,,,0,no_spend
+u002141,2025-08-29,regular,1,web,1,1,2025-10-27 16:38:24,2025-10-27 16:38:24,0,low
+u002142,2025-11-05,regular,3,web,1,1,2025-12-15 04:14:34,2025-12-15 04:14:34,0,low
+u002143,2025-06-28,regular,3,web,2,0,,,0,no_spend
+u002144,2025-10-21,value,2,web,5,0,,,0,no_spend
+u002145,2025-12-10,value,1,web,0,0,,,0,no_spend
+u002146,2025-10-29,regular,1,web,7,0,,,0,no_spend
+u002147,2025-08-24,regular,2,mobile,5,0,,,0,no_spend
+u002148,2025-11-22,value,2,mobile,0,0,,,0,no_spend
+u002149,2025-07-24,value,3,mobile,3,0,,,0,no_spend
+u002150,2025-12-28,value,3,mobile,1,0,,,0,no_spend
+u002151,2025-07-14,value,2,web,0,0,,,0,no_spend
+u002152,2025-12-21,regular,3,web,5,2,2025-10-26 16:00:14,2026-01-04 08:58:07,1,medium
+u002153,2025-10-05,regular,3,mobile,7,0,,,0,no_spend
+u002154,2025-09-21,regular,2,mobile,7,2,2025-12-04 17:53:47,2025-12-25 13:36:17,1,high
+u002155,2025-10-06,value,2,web,2,0,,,0,no_spend
+u002156,2025-08-04,value,3,web,3,0,,,0,no_spend
+u002157,2025-09-27,regular,1,web,2,0,,,0,no_spend
+u002158,2025-12-18,regular,3,web,4,0,,,0,no_spend
+u002159,2025-12-08,value,1,web,2,0,,,0,no_spend
+u002160,2025-07-27,value,2,web,6,1,2025-11-02 17:13:55,2025-11-02 17:13:55,0,low
+u002161,2025-11-11,regular,3,mobile,4,1,2025-10-27 19:48:00,2025-10-27 19:48:00,0,medium
+u002162,2025-12-20,regular,2,mobile,5,0,,,0,no_spend
+u002163,2025-12-12,premium,2,web,0,0,,,0,no_spend
+u002164,2025-09-20,regular,2,mobile,3,0,,,0,no_spend
+u002165,2025-07-03,regular,1,mobile,7,0,,,0,no_spend
+u002166,2026-01-04,regular,1,web,2,0,,,0,no_spend
+u002167,2025-09-14,value,2,mobile,9,2,2026-01-05 07:09:16,2026-01-13 03:29:09,1,low
+u002168,2025-09-07,regular,2,web,3,0,,,0,no_spend
+u002169,2025-11-29,regular,2,mobile,6,0,,,0,no_spend
+u002170,2025-08-17,value,1,web,3,1,2025-12-03 23:15:39,2025-12-03 23:15:39,0,low
+u002171,2025-12-15,premium,3,mobile,2,0,,,0,no_spend
+u002172,2025-07-09,regular,2,mobile,6,0,,,0,no_spend
+u002173,2025-11-25,value,2,web,4,0,,,0,no_spend
+u002174,2026-01-12,value,2,web,5,0,,,0,no_spend
+u002175,2026-01-18,premium,1,web,3,0,,,0,no_spend
+u002176,2026-01-03,premium,3,mobile,2,0,,,0,no_spend
+u002177,2025-12-23,regular,2,mobile,1,0,,,0,no_spend
+u002178,2025-08-21,premium,1,web,2,0,,,0,no_spend
+u002179,2026-01-12,premium,3,mobile,6,0,,,0,no_spend
+u002180,2026-01-04,regular,3,web,1,1,2026-01-05 11:14:05,2026-01-05 11:14:05,0,medium
+u002181,2025-10-13,premium,3,web,4,1,2025-12-11 02:48:12,2025-12-11 02:48:12,0,high
+u002182,2025-09-15,regular,3,web,5,1,2025-12-18 03:00:39,2025-12-18 03:00:39,0,medium
+u002183,2025-07-16,regular,3,web,3,0,,,0,no_spend
+u002184,2025-10-25,regular,2,web,5,0,,,0,no_spend
+u002185,2025-11-17,regular,2,web,6,1,2025-12-05 05:10:39,2025-12-05 05:10:39,0,medium
+u002186,2025-09-16,value,2,web,3,1,2025-12-16 04:55:15,2025-12-16 04:55:15,0,low
+u002187,2025-09-16,regular,2,mobile,5,1,2025-10-26 08:23:37,2025-10-26 08:23:37,0,high
+u002188,2025-10-21,premium,1,web,1,0,,,0,no_spend
+u002189,2025-06-29,value,1,mobile,0,0,,,0,no_spend
+u002190,2026-01-10,premium,2,mobile,3,0,,,0,no_spend
+u002191,2025-08-23,regular,3,mobile,5,1,2025-11-15 07:58:50,2025-11-15 07:58:50,0,medium
+u002192,2025-07-23,value,3,web,5,2,2025-12-06 22:53:33,2026-01-18 19:25:42,1,high
+u002193,2025-06-24,value,2,mobile,6,1,2026-01-12 08:17:23,2026-01-12 08:17:23,0,high
+u002194,2025-12-20,regular,1,web,7,0,,,0,no_spend
+u002195,2025-12-21,regular,2,web,1,0,,,0,no_spend
+u002196,2025-07-13,value,2,web,2,0,,,0,no_spend
+u002197,2025-07-25,regular,3,web,1,0,,,0,no_spend
+u002198,2025-09-25,value,3,mobile,2,0,,,0,no_spend
+u002199,2025-08-01,regular,3,mobile,3,1,2025-12-06 08:51:50,2025-12-06 08:51:50,0,low
+u002200,2025-11-24,premium,3,mobile,7,0,,,0,no_spend

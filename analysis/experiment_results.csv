@@ -1,0 +1,4 @@
+﻿Metric,Variant A,Variant B,Lift %,Confidence Range,P-Value,Significant,decision,recommendation,impact_Worst_Case,impact_Base_Case,impact_Best_Case
+Session CVR,0.0840,0.0997,+18.66%,±1.53%,0.137,No,ITERATE,"Optimize speed, then rollout to Search/New Users.","₹-86,302 — ₹18,944","₹75,146 — ₹180,391","₹143,766 — ₹249,012"
+Revenue Per Session (RPES),636.7330,714.0156,+12.14%,±17.78%,0.397,No,ITERATE,"Optimize speed, then rollout to Search/New Users.","₹-86,302 — ₹18,944","₹75,146 — ₹180,391","₹143,766 — ₹249,012"
+Checkout-to-Purchase,0.7232,0.7000,-3.20%,±6.20%,0.6167,No,ITERATE,"Optimize speed, then rollout to Search/New Users.","₹-86,302 — ₹18,944","₹75,146 — ₹180,391","₹143,766 — ₹249,012"
